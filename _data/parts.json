@@ -1,0 +1,11 @@
+{ "parts-index": [
+    { "title" : "Parts Listing Index", "url": "/parts/" },
+    { "title" : "Games and Rules Supplements", "url": "/parts/parts-games/" },
+    { "title" : "Games and Rules Supplements", "url": "/parts/parts-games-more/" },
+    { "title" : "Adventures and Rule Supplements", "url": "/parts/parts-adventures/" },
+    { "title" : "Adventures and Rule Supplements (Continued)", "url": "/parts/parts-adventures-more/" },
+    { "title" : "Ship Recognition Manuals / Playing Aids", "url": "/parts/parts-recognition-aids/" },
+    { "title" : "Magazines Index", "url": "/parts/parts-magazines/" },
+    { "title" : "Miniatures and Miscellaneous Info", "url": "/parts/parts-minis-misc/" }
+]
+}
