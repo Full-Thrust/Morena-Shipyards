@@ -92,7 +92,7 @@ module.exports = function(eleventyConfig) {
 
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "liquid",
-    dataTemplateEngine: "liguid",
+    dataTemplateEngine: "liquid",
 
     // These are all optional, defaults are shown:
     dir: {
