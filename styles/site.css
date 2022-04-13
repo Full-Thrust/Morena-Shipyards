@@ -101,6 +101,9 @@ footer ul {
 	flex-direction: column;
 }
 
+img {
+	width: 100%;
+}
 
 
 footer, nav {
