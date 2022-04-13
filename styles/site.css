@@ -26,6 +26,8 @@
 --lineheight-text: 1.6;
 --lineheight-heading: 1.4;
 
+--color-background-dark: #161F33;
+--color-text-light: #FFFFFF;
 --color-background: #F6F9FC;
 --color-background-selection: #D3D3E1;
 --color-border: #D8D8D8;
@@ -47,7 +49,7 @@
 --border-width-thick: 5px;
 
 --grid-gap: 2vw;
---max-width: 80rem;
+--max-width: 40rem;
 
 --spacing-xx-small: .125rem;
 --spacing-x-small: .25rem;
@@ -66,9 +68,8 @@ html {
 }
 
 body {
-  max-width: var(--max-width);
   margin: auto;
-  padding: 0 2rem;
+  /* padding: 0 2rem; */
   font-size: 1rem;
   font-weight: 400;
   line-height: var(--lineheight-text);
@@ -79,6 +80,11 @@ body {
 
 main,nav,footer {
 	margin: auto;
+}
+
+main {
+	max-width: var(--max-width);
+	padding: 1rem;
 }
 
 nav ul,
@@ -95,6 +101,35 @@ footer ul {
 	flex-direction: column;
 }
 
+
+
+footer, nav {
+	background-color: var(--color-background-dark);
+}
+
+footer {
+	margin-top: var(--spacing-xx-large);
+}
+
+nav {
+	margin-bottom: var(--spacing-xx-large);
+}
+
+nav div {
+  min-height: 0.5rem;
+}
+
+nav div {
+	padding: 1rem;
+}
+
+footer div {
+	padding: 3rem;
+	color: var(--color-text-light);
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
 
 
 h1,h2,h3 {
@@ -124,6 +159,10 @@ h3 {
 a {
 	color: var(--color-text-link);
 	text-decoration: none;
+}
+
+ul {
+	padding-left: 1rem;
 }
 
 a:hover {
