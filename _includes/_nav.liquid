@@ -1,7 +1,0 @@
-<nav>
-<ul>
-	{%- for link in collections.nav -%}
-	<li {% if page.url == link.url %} class="active"{% endif %}><a href="{{link.url}}">{{ link.data.title }}</a></li>
-	{%- endfor -%}
-</ul>
-</nav>

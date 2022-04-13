@@ -1,7 +1,0 @@
-<footer>
-<ul>
-	{%- for link in collections.footer -%}
-	<li {% if page.url == link.url %} class="active"{% endif %}><a href="{{link.url}}">{{ link.data.title }}</a></li>
-	{%- endfor -%}
-</ul>
-</footer>
