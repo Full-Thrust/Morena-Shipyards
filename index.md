@@ -16,12 +16,15 @@ The FASA Star Trek Universe is a very different place to the contemporary *canon
 
 The mail forum is available to discuss FASA ship construction, or for other Star Trek related topics. We hope that you enjoy perusing the work located here. 
 
-Your input is greatly desired, [please join groups.io](https://groups.io/register):
+Your input is greatly desired, follow these steps 
 
+- [Join groups.io](https://groups.io/register):
 - [Apply for membership of this group](https://thefasastartrekuniversee-group.groups.io/g/main) The FASA Star Trek Universe E-Group
 - [Morena Shipyards is a subgroup](https://thefasastartrekuniversee-group.groups.io/g/MorenaShipyards)
-- Membership must be approved by the Moderator, but please don't let this discourage you. It is just to filter spammers only.- 
+- Group membership must be approved by the Moderator, but please don't let this discourage you. It is just to filter spammers only.- 
 - Please read the [first post in the Messages section](https://thefasastartrekuniversee-group.groups.io/g/MorenaShipyards/message/1) for a complete introduction. 
+
+- [You can also subscribe by emailing the list](mailto:MorenaShipyards+subscribe@TheFASAStarTrekUniverseE-group.groups.io) 
 
 ### Related mailing lists
 
