@@ -184,3 +184,32 @@ a:link {
 .text-align-center {
   text-align: center; 
 }
+
+.gallery1up {
+	width: 100%;
+}
+
+.gallery2up {
+	width: 40%;
+}
+
+.gallery3up {
+	width: 30%;
+}
+
+.gallery,
+.caption {
+	margin: 0;
+	padding: 0;
+}
+
+.gallery {
+	display:flex;
+	justify-content: space-evenly;
+}
+
+.caption {
+	text-align: center; 
+	font-size: var(--font-size-x-small);
+	padding: var(--spacing) 0 var(--spacing-large);
+}
