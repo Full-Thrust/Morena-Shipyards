@@ -14,7 +14,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setDataDeepMerge(true);
 
-  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  eleventyConfig.addLayoutAlias("post", "layouts/post.liquid");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
@@ -36,8 +36,8 @@ module.exports = function(eleventyConfig) {
 
   //eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
-  eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("styles");
   eleventyConfig.addPassthroughCopy("favicon.ico");
 
 
@@ -91,8 +91,8 @@ module.exports = function(eleventyConfig) {
     // pathPrefix: "/",
 
     markdownTemplateEngine: "liquid",
-    htmlTemplateEngine: "njk",
-    dataTemplateEngine: "njk",
+    htmlTemplateEngine: "liquid",
+    dataTemplateEngine: "liguid",
 
     // These are all optional, defaults are shown:
     dir: {
