@@ -61,19 +61,31 @@ List member projects are linked here, **list members only** as these access the 
 
 ## Links
 
-### Members
+### Morena Members
 	
 - [Groknard - A Retrospective of Star Trek RPGs](http://groknard.blogspot.com/) Excellent discussion of all known Star Trek roleplaying games.
 - [The Ubergeeky Starship List: **FASA**](http://www.angelfire.com/scifi/FirstofTwo/shiplist5.html) First of Two's amazing compilation of **FASA** starships. Browse the site for even more starship lists from other sources!
 - [Star Trek Starship Tactical Combat Simulator On-Line Database & Archive](https://www.ststcsolda.space/) This site started out in 1999 as a humble collection of crude scans and .html pages, but since then it has grown into one of the premiere sites on the Web dedicated to the old **FASA** Star Trek Starship Tactical Combat Simulator.
 - [	STCS: Starfleet's 8th Flotilla](http://starshipcombat.blogspot.com/) Star Trek according to **FASA** Ongoing Starship Tactical Combat Simulator campaign centered around Starfleet's 8th Border Flotilla, currently assigned to Klingon border patrol.
 - [Jack Photon's STTRPG 3rd Edition Framework House Rules](http://www.jackphoton.space/) A tear-down, rebuild and mind-melding of 1st and 2nd edition STTRPG skewed 1st edition and focused on TOS/TAS. If I knew enough about Phase II, I'd have included that as it is more TOS than TMP. Supplements include Character Sheets, GM Screens at present and theoretically more to come as I go through and ""de-Wheeler"" the system. NO efforts towards Starship combat other than what is in 1st edition supplemented by Stardate articles, tables, etc. Loads of new material and alternate House Rules.
+- [Xon Gaming FASA parts listing](https://ufc465537.neocities.org/index.html) The most comprehensive breakdown of the FASA Star Trek RPG system.
 
-### Partners
+### Related FASA Star Trek
 
 - [Vintage Starships II](https://vintagestarships.wordpress.com/) My favorite site in all of **FASA** Trekdom.
 - [UFC465537 Guardian of Forever: FASA Star Trek](https://ufc465537.neocities.org/) Star Trek: The Role Playing Game campaign archive, FASA game mechanics material and many Support Files. Includes XON Gaming - **FASA** Star Trek Starship Combat and RPG Support Hosted Pages and Files.
 - [**FASA** Star Trek Starship Tactical Combat Simulator](http://fasaststcs.com/) Materials & Supplements for **FASA's** Classic Star Trek Starship Combat Game
+- [Star Trek ship schematics database](http://www.shipschematics.net/startrek/index.php) lots of ship schematics for data sheets
+- [Sitzkrieg Star Trek](http://sitzkrieg.blogspot.com/search/label/Star%20Trek) Wargaming blog lots of very useful info including [how to get the STSTCS PC game to work.](http://sitzkrieg.blogspot.com/2018/10/gaming-like-its-1989-installing-fasa.html)
+- [Jackill](http://www.jackill.com/) Commercial Star Trek ship schematics
+- [Starship Combat News](http://www.star-ranger.com/Home.htm) Doesn't have a FASA section but lots of other useful resources. Not archived not active site.
+- [David Deitrick](https://davidr3deitrick.wordpress.com/category/star-trek/) FASA artist extraordinaire.
+- [Idahobeef](http://idahobeef.yolasite.com/) Trek I am writing section has come very well produced FASA trek adventures, settings, races and characters.
+- [Federation Models](http://www.federationmodels.com/) Star Trek garage kits.
+- [Starship Modeler](http://www.starshipmodeler.com/index.htm) is the complete information resource for the science fiction, factual space, fantasy, mecha and anime scale model builder.
+
+
+
 
 
 
