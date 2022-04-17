@@ -11,6 +11,14 @@
 	{%include 'nav.liquid' %}
 	<main>
     {{ content }}
+	<h1>News</h1>
+	{%- for news in collections.news -%}
+		<div class="newsSummary">
+		<span class="newsTitle">{{ news.data.title }}</span>
+		<span class="newsDate">{{ news.date | date: "%a, %b %d" }}</span>
+		{{ news.templateContent }}
+		</div>
+	{%- endfor -%}
 	</main>
 	{%include 'footer.liquid' %}
   </body>

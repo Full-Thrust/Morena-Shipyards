@@ -234,3 +234,16 @@ a:link {
 	font-size: var(--font-size-x-small);
 	padding: var(--spacing) 0 var(--spacing-large);
 }
+
+.newsSummary p {
+	margin: 0 0 1rem 1rem;
+}
+
+.newsTitle {
+	color: var(--lighter-blue);
+	font-weight: var(--font-weight-heavy)
+}
+
+.newsDate {
+	color: var(--mid-green);
+}
