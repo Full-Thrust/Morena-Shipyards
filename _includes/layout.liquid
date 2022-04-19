@@ -11,8 +11,9 @@
 	{%include 'nav.liquid' %}
 	<main>
     {{ content }}
+	<!-- Latest 10 news items -->
 	<h1>News</h1>
-	{%- for news in collections.news -%}
+	{%- for news in collections.news limit:10 -%}
 		<div class="newsSummary">
 		<span class="newsTitle">{{ news.data.title }}</span>
 		<span class="newsDate">{{ news.date | date: "%a, %b %d" }}</span>
