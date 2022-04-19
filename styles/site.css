@@ -47,12 +47,12 @@
 
 /* SFC */
 
---dark-blue: #161F33;
 --darkest-blue: #080B12;
---lighter-blue: #34B0FF;
---light-blue: #0098F8;
---light-cyan: #88F0F0;
+--dark-blue: #161F33;
 --mid-blue: #0878D8;
+--light-blue: #0098F8;
+--lighter-blue: #34B0FF;
+--light-cyan: #88F0F0;
 --mid-green: #00A840;
 --light-yellow: #F8F800;
 --amber: #FFBF00;
@@ -142,7 +142,10 @@ nav {
 	margin-bottom: var(--spacing);
 	display: flex;
 	justify-content: center;
+	flex-wrap: nowrap;
+	overflow: hidden;
 	padding: 0.5rem;
+	width: 100%;
 }
 
 nav .data {
@@ -152,7 +155,8 @@ nav .data {
 	font-weight: var(--font-weight-heavy);
 	border-radius: 0.25rem;
 	margin-right: 1rem;
-	font-family: var(--font-family-title)
+	font-family: var(--font-family-title);
+	
 }
 
 nav .tac {
@@ -174,9 +178,18 @@ nav div {
 
 footer {
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	padding: 0.5rem;
 	align-items: center;
+}
+
+footer .console {
+	display: flex;
+	width: 100%;
+	flex-wrap:nowrap;
+	overflow: hidden;
+	justify-content: center;
 }
 
 footer .data {

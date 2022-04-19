@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" type="image/x-icon" href="{{ '/images/favicon.png' | url }}">
+	<link rel="stylesheet" href="{{ '/styles/site.css' | url }}">
+    <title>{{ title }}</title>
+  </head>
+  <body>
+	{%include 'nav.liquid' %}
+	<main>
+    {{ content }}
+	<!-- Latest 10 news items -->
+	<h1>News</h1>
+	{%- for news in collections.news limit:10 -%}
+		<div class="newsSummary">
+		<span class="newsTitle">{{ news.data.title }}</span>
+		<span class="newsDate">{{ news.date | date: "%a, %b %d" }}</span>
+		{{ news.templateContent }}
+		</div>
+	{%- endfor -%}
+	</main>
+	{%include 'footer.liquid' %}
+  </body>
+</html>
