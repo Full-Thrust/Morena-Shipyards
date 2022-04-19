@@ -1,6 +1,8 @@
 ---
-layout: layout.liquid
+layout: page.liquid
 title: FASA Listing
+description: FASA Star Trek product listing
+templateClass: listing
 ---
 
 # FASA Listing

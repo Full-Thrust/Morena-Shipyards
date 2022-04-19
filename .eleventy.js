@@ -12,9 +12,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
-
   eleventyConfig.setDataDeepMerge(true);
-
   eleventyConfig.addLayoutAlias("post", "layouts/post.liquid");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
@@ -31,17 +29,14 @@ module.exports = function(eleventyConfig) {
     if( n < 0 ) {
       return array.slice(n);
     }
-
     return array.slice(0, n);
   });
 
   // Custom code
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
-
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("styles");
   eleventyConfig.addPassthroughCopy("favicon.png");
-
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
