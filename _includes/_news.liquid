@@ -1,9 +1,12 @@
 <!-- Latest 10 news items -->
+<section>
 	<h1>News</h1>
-	{%- for news in collections.news limit:10 -%}
+	{% assign newsItems = collections.news | reverse %}
+	{%- for news in newsItems limit:10 -%}
 		<div class="newsSummary">
 		<span class="newsTitle">{{ news.data.title }}</span>
 		<span class="newsDate">{{ news.date | date: "%a, %b %d" }}</span>
 		{{ news.templateContent }}
 		</div>
 	{%- endfor -%}
+</section>

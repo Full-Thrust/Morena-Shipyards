@@ -3,6 +3,9 @@ layout: page.liquid
 title: FASA Listing
 description: FASA Star Trek product listing
 templateClass: listing
+eleventyNavigation:
+  key: Listing
+  order: 2
 ---
 
 # FASA Listing

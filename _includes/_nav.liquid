@@ -1,10 +1,19 @@
 <nav>
-  <div class="data tac">70058</div>
-  <div class="data eng">12550</div>
-  <div class="data sys">85467</div>
-  <div class="data nav">51190</div>
-  <div class="data eng">23540</div>
-  <div class="data nav">35689</div>
-  <div class="data tac">69745</div>
-  <div class="data sys">89234</div>
+  <div class="console">
+    <div class="data tac">70058</div>
+    <div class="data eng">12550</div>
+    <div class="data sys">85467</div>
+    <div class="data nav">51190</div>
+    <div class="data eng">23540</div>
+    <div class="data nav">35689</div>
+    <div class="data tac">69745</div>
+    <div class="data sys">89234</div>
+  </div>
+  
+  <div class="nav-list">
+    {% assign navPages = collections.all | eleventyNavigation %}
+    {%- for entry in navPages %}
+      <div class="nav-item {% if entry.url == page.url %} nav-item-active {% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></div>
+    {%- endfor %}
+  </div>
 </nav>
