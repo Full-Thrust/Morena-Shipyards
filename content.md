@@ -124,6 +124,14 @@ One off posts on the FASA Star Trek game:
 - [Trek Yards](https://www.youtube.com/c/Trekyardswebseries) loads of top trek ship geek content including FASA {.active}
 - [Axanar](https://www.youtube.com/user/startrekaxanar) nice battles set in the Axanar Four Years War from FASA {.active}
 - [Star Trek The Role Playing Game (Fasa 1983) | Rules Breakdown](https://www.youtube.com/watch?v=wpOoD8HW6d0) {.active}
+- [Star Trek the roleplaying game by FASA (Review)](https://www.youtube.com/watch?v=Mzxoho5iWY0) man with a bad green screen {.active}
+- [Klingon Ship Recognition Manual (Star Trek RPG, FASA, 1985) | Retro RPG](https://www.youtube.com/watch?v=DG89A2QHsNs) {.active}
+- [Federation Ship Recognition Manual (Star Trek RPG, FASA 1985) | Retro RPG](https://www.youtube.com/watch?v=WyOETLBBdbo) {.active}
+- [FASA Star Trek: The Role Playing Game (A First Look)](https://www.youtube.com/watch?v=pf9YaMOHmcc) {.inactive}
+- [How to Play FASA Star Trek (Part 1: Overview)](https://www.youtube.com/watch?v=IlvACwIjTTU) {.inactive}
+- [How to Play FASA Star Trek (Part 2: Attributes)](https://www.youtube.com/watch?v=EPRpN7Xhb4U) {.inactive}
+- [Remembering Star Trek Starship Combat Role Playing Game](https://www.youtube.com/watch?v=R0cQg-tnzsQ) {.inactive}
+- [Grand Voyage: Retrospective Journey of the U.S.S. Phobos (Star Trek FASA CGI)](https://www.youtube.com/watch?v=DRsvAnKy0Ds) {.active}
 
 #### Models
 
