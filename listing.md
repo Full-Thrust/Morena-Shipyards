@@ -69,7 +69,7 @@ eleventyNavigation:
 ### 2300 Ships
 
 - 2301 Ship Recognition Manual: The Klingon Empire (First Edition)
-- 2301 Klingons Ship Recognition Manual (Second Edition)
+- 2301 Klingon Ship Recognition Manual (Second Edition)
 - 2302 Ship Recognition Manual: The Federation (First Edition)
 - 2302 Federation Ship Recognition Manual (Second Edition)
 - 2303 Romulan Ship Recognition Manual
