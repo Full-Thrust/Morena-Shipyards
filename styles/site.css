@@ -290,17 +290,20 @@ li {
 }
 
 li::before {
-	content: "•\00a0\00a0";
+	content: "•";
 	color: var(--mid-blue);
+	display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
 }
 
 li.active::before {
-	content: "■ ";
+	content: "■";
 	color: var(--mid-green);
 }
 
 li.inactive::before {
-	content: "■ ";
+	content: "■";
 	color: var(--amber);
 }
 
