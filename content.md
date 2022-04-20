@@ -123,6 +123,7 @@ One off posts on the FASA Star Trek game:
 - [Resurrected Starships](https://www.youtube.com/c/ResurrectedStarships) lots of FASA centric videos {.active}
 - [Trek Yards](https://www.youtube.com/c/Trekyardswebseries) loads of top trek ship geek content including FASA {.active}
 - [Axanar](https://www.youtube.com/user/startrekaxanar) nice battles set in the Axanar Four Years War from FASA {.active}
+- [Star Trek The Role Playing Game (Fasa 1983) | Rules Breakdown](https://www.youtube.com/watch?v=wpOoD8HW6d0) {.active}
 
 #### Models
 
