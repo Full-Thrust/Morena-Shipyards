@@ -89,7 +89,8 @@ Sites dedicated to FASA Star Trek:
 
 Playaids and helpful stuff:
 
-- [Character Geneartion Sheets](https://github.com/ledlogic/fasa-star-trek) {.active}
+- [Character Generation Sheets](https://github.com/ledlogic/fasa-star-trek) {.active}
+- [FASA STSTCS PC Game](https://gaming.trekcore.com/starshiptactical/downloads.html) play STSTCS on your PC there is a huge amount of stuff available in the list archives. [how to get the STSTCS PC game to work.](http://sitzkrieg.blogspot.com/2018/10/gaming-like-its-1989-installing-fasa.html) works on Windows 7 & 10 if you persevere. {.inactive}
 
 #### Blogs
 
