@@ -39,6 +39,11 @@ There are several facebook groups you can join if you use facebook, these are in
 - [Star Trek Starship Tactical Combat Simulator: On-Line Database & Archive](https://www.facebook.com/groups/999526423421497/) { .active }
 - [The **FASA** Star Trek Universe Facebook Group](https://www.facebook.com/groups/197388154479/) { .active }
 - [**FASA** Star Trek RPG](https://www.facebook.com/groups/fasastrpg) { .active }
+- [Janynz Starships](https://www.facebook.com/groups/211967500763519) a group to keep people informed of updates to Jaynz Starships, a celebration of the Star Trek starship art of the late Neale Davidson. {.active}
+- [Star Trek Modelers Group](https://www.facebook.com/groups/startrekmodels) {.active}
+- [Starship Modeler](https://www.facebook.com/groups/starshipmodeler) {.active}
+- [All Scale Trek](https://www.facebook.com/officialallscaletrek) {.active}
+- [SFU Miniatures Painting and Kitbashing Tips](https://www.facebook.com/groups/568564029852004) Star Fleet Battles but the painting guides apply to FASA {.active}
 
 ## Forums
 
@@ -48,6 +53,7 @@ These are popular if you don't use facebook. Please join in the discussion here.
 - [Starship Combat Forum](http://www.star-ranger.com/forum/) more general purpose but useful resource for mini space games. {.active}
 - [Trek RPG Forums](http://forum.trek-rpg.net/forum.php) all the systems, [FASA forum](http://forum.trek-rpg.net/forumdisplay.php/28-FASA-System-amp-Mechanics). {.active}
 - [Old School Trek](https://oldschooltrek.proboards.com/) let’s pretend it’s the 1970s, roleplaying is still new exciting, and Star Trek is still all about fighting evil Klingons and romancing beautiful aliens on exotic red planets. {.active}
+- [All Scale Trek](https://www.allscaletrek.com/) models quite a bit of FASA scale {.active}
 
 ## Links
 
@@ -72,6 +78,15 @@ List member projects are linked here, **list members only** can access as these 
 
 ### FASA Star Trek
 
+#### FASA Libraries
+
+Game materials:
+
+- [JT FASA Library](http://www.jt-sw.com/ststcs/docs.nsf) most extensive collectio, slow download { .active }
+- [Trove FASA Library Archive](https://mega.nz/file/7lVWCRxa#rYI5mfn8zhuAdbsHT1MV1OqR5DbFOzx3WJkpcKcyG44) 3.8GB pretty much everything in one go, fast download { .active }
+- [Mediafire FASA Library](https://www.mediafire.com/?h8zeny7kkee55) &mdash; [FASA Fan Material](https://www.mediafire.com/?gaz5qo95b4q4z) &mdash; [FASA Magazines](https://www.mediafire.com/?9len7udfm68q7) large collection tedious Mediafire download manager { .active }
+- [Eye FASA Library](https://the-eye.eu/public/Books/rpg.rem.uz/Star%20Trek%20(FASA)/) only a subset of materials, slow download { .active }
+
 #### Portals
 
 Sites dedicated to FASA Star Trek:
@@ -84,6 +99,7 @@ Sites dedicated to FASA Star Trek:
 - [Star Trek ship schematics database](http://www.shipschematics.net/startrek/index.php) lots of ship schematics for data sheets{ .active }
 - [Jackill](http://www.jackill.com/) Commercial Star Trek ship schematics{ .active }
 - [Cold North Star Trek Deckplans](http://www.coldnorth.com/owen/deckplans/m20/) very good deckplans the [Ranger](http://www.coldnorth.com/owen/deckplans/m20/r/ranger/index.htm) is a favorite. {.active}
+- [Janynz Starships](https://www.facebook.com/groups/211967500763519) a group to keep people informed of updates to Jaynz Starships, a celebration of the Star Trek starship art of the late Neale Davidson. {.active}
 
 #### Tools
 
@@ -138,6 +154,11 @@ One off posts on the FASA Star Trek game:
 - [Federation Models](http://www.federationmodels.com/) Star Trek garage kits. { .active }
 - [Starship Modeler](http://www.starshipmodeler.com/index.htm) is the complete information resource for the science fiction, factual space, fantasy, mecha and anime scale model builder. { .active }
 - [Kitbash](https://kitbash.net/scifi.html) Star Trek models {.active}
+- [Star Trek Modelers Group](https://www.facebook.com/groups/startrekmodels) {.active}
+- [Starship Modeler](https://www.facebook.com/groups/starshipmodeler) {.active}
+- [All Scale Trek](https://www.facebook.com/officialallscaletrek) {.active}
+- [SFU Miniatures Painting and Kitbashing Tips](https://www.facebook.com/groups/568564029852004) Star Fleet Battles but the painting guides apply to FASA {.active}
+- [The Stuff of Legends](https://www.cs.cmu.edu/~tpope/sol/fasa/star-trek.html) FASA miniatures {.active}
 
 #### Inactive
 
