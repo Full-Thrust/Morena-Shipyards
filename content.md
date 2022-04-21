@@ -101,12 +101,15 @@ Sites dedicated to FASA Star Trek:
 - [Cold North Star Trek Deckplans](http://www.coldnorth.com/owen/deckplans/m20/) very good deckplans the [Ranger](http://www.coldnorth.com/owen/deckplans/m20/r/ranger/index.htm) is a favorite. {.active}
 - [Janynz Starships](https://www.facebook.com/groups/211967500763519) a group to keep people informed of updates to Jaynz Starships, a celebration of the Star Trek starship art of the late Neale Davidson. {.active}
 
-#### Tools
+#### Games & Playaids
 
-Playaids and helpful stuff:
+Online and offline games, playaids and helpful stuff:
 
 - [Character Generation Sheets](https://github.com/ledlogic/fasa-star-trek) {.active}
 - [FASA STSTCS PC Game](https://gaming.trekcore.com/starshiptactical/downloads.html) play STSTCS on your PC there is a huge amount of stuff available in the list archives. [how to get the STSTCS PC game to work.](http://sitzkrieg.blogspot.com/2018/10/gaming-like-its-1989-installing-fasa.html) works on Windows 7 & 10 if you persevere. {.inactive}
+- [Vassal &mdash; Star Trek: Starship Tactical Combat Simulator Module](https://vassalengine.org/wiki/Module:Star_Trek:_Starship_Tactical_Combat_Simulator) Vassal allows online play via a shared game board. {.active}
+- [Tabletop Simulator &mdash; Star Trek: Starship Tactical Combat Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1127863054) PC game on steam that allows online play this is a mod to load into the game. {.active}
+- [Roll 20](https://roll20.net/) games platform doesn't have any FASA specific games but designed for character sheets and virtual table top, Discord can be used for voice & chat.  {.active}
 
 #### Blogs
 
