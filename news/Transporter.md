@@ -1,0 +1,5 @@
+---
+tags: news
+title: Transporter malfunction
+---
+New release from Jack Photon on transporter  failure, consequences and happenstances. [16mb, Supplement 03: Transporter Failure](https://www.jackphoton.space/html/s03_transporters.html). In a hurry? [direct download](https://www.jackphoton.space/zips/startrek/supp/JP3eF_S03_TransporterFailure_HiQ.rar). 
