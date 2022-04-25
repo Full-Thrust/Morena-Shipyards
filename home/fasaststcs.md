@@ -44,6 +44,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [SFU Miniatures Painting and Kitbashing Tips](https://www.facebook.com/groups/568564029852004) Star Fleet Battles but the painting guides apply to FASA {.active}
 - [The Stuff of Legends](https://www.cs.cmu.edu/~tpope/sol/fasa/star-trek.html) **FASA** miniatures {.active}
 - [Tycen Hopkins **FASA** Ship Kits](https://drive.google.com/drive/folders/1W5B4TEpE54ax9C5oGcD6SvcOxbK5TIcj) large library of printable STL files for large number of FASA ships and variants. {.active}
+- [B3 designs](https://www.b-3designs.com/) custom made FASA designs {.active}
 
 ### Videos
 
