@@ -16,4 +16,5 @@ These are popular if you don't use facebook. Please join in the discussion here:
 - [Star Trek Starship Tactical Combat Simulator On-Line Database & Archive Forum](https://ststcsolda.proboards.com/) forum for STSTCSOLD&A run by Brad  {.active}
 - [Starship Combat Forum](http://www.star-ranger.com/forum/) more general purpose but useful resource for mini space games. {.active}
 - [All Scale Trek](https://www.allscaletrek.com/) models quite a bit of FASA scale {.active}
+- [Trekographics 101](https://www.tapatalk.com/groups/treknographics101/) forum of schematics and diagrams {.active}
 

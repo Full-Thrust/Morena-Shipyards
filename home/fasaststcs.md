@@ -11,6 +11,9 @@ Primarily on starship design & combat:
 - [The Ubergeeky Starship List: **FASA**](http://www.angelfire.com/scifi/FirstofTwo/shiplist5.html) First of Two's amazing compilation of **FASA** starships. Browse the site for even more starship lists from other sources! { .active }
 - [	STCS: Starfleet's 8th Flotilla](http://starshipcombat.blogspot.com/) Star Trek according to **FASA** Ongoing Starship Tactical Combat Simulator campaign centered around Starfleet's 8th Border Flotilla, currently assigned to Klingon border patrol. { .active }
 - [Tactical Combat Simulator Missions](https://sites.google.com/site/tcsbattles/home) STSTCS scenarios and charts {.active}
+- [Construction for FASA's Starship Tactical Combat Simulator](https://sites.google.com/site/tngfasa/) Meteo's ship constructions {.active}
+- [Homebrewed Stats for Starships Final](http://tardiscaptain.com/2022/02/20/homebrewed-stats-for-starships-final/) mega scan of ship design folio {.active}
+- [The Starship Files](https://starshipfiles.wordpress.com/) ship design & battle reports blog {.active}
 
 Inactive sites, these have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
 
@@ -18,6 +21,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Starship Combat News](http://www.star-ranger.com/Home.htm) doesn't have a FASA section but lots of other useful resources.{ .inactive }
 - [Jack Bohn *wayback*](https://web.archive.org/web/20210126201741id_/http://userpages.bright.net/~jackbohn/sf/fasanac.htm) nacelle design and [ship listing *wayback*](https://web.archive.org/web/20210411210742id_/http://userpages.bright.net/~jackbohn/sf/shiplist.htm) {.inactive}
 - [Good Reads STSTCS review](https://www.goodreads.com/review/show/169999204) {.inactive}
+- [Unofficial Star Trek Starship Combat Game *wayback*](https://web.archive.org/web/19991110185604id_/https://www.customcpu.com/personal/colley/index.html)  {.inactive}
 
 ### Schematics 
 
@@ -25,6 +29,10 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Jackill](http://www.jackill.com/) Commercial Star Trek ship schematics{ .active }
 - [Cold North Star Trek Deckplans](http://www.coldnorth.com/owen/deckplans/m20/) very good deckplans the [Ranger](http://www.coldnorth.com/owen/deckplans/m20/r/ranger/index.htm) is a favorite. {.active}
 - [Janynz Starships](https://www.facebook.com/groups/211967500763519) a group to keep people informed of updates to Jaynz Starships, a celebration of the Star Trek starship art of the late Neale Davidson. {.active}
+- [Cygnux X1 &mdash; Star Trek Blue Print Database](https://www.cygnus-x1.net/links/lcars/blueprints-main2.php) 10,000 Star Trek blueprints {.active}
+- [Trebuche Starships](https://trebuchestarships.blogspot.com/) blueprints and parts {.active}
+- [Star Trek Escape Committee](https://trek.escape-committee.co.uk/) full set of ship reference manuals {.active}
+
 
 ### Games & Remote Play
 
@@ -45,6 +53,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [The Stuff of Legends](https://www.cs.cmu.edu/~tpope/sol/fasa/star-trek.html) **FASA** miniatures {.active}
 - [Tycen Hopkins **FASA** Ship Kits](https://drive.google.com/drive/folders/1W5B4TEpE54ax9C5oGcD6SvcOxbK5TIcj) large library of printable STL files for large number of FASA ships and variants. {.active}
 - [B3 designs](https://www.b-3designs.com/) custom made FASA designs {.active}
+- [Modular Models](http://www.modular-models.com/) modular resin Star Trek kits {.active}
 
 ### Videos
 
