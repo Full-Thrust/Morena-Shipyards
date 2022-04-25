@@ -1,5 +1,7 @@
 ---
-tags: content
+title: Holder of old content
+tags: 
+  - none
 ---
 # Online Resources
 

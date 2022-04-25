@@ -3,13 +3,17 @@ layout: base.liquid
 templateClass: home
 ---
 <section>
-  {%- for intro in collections.intro limit:1 -%}
+  {%- for intro in collections.homeintro limit:1 -%}
 	{{ intro.templateContent }}
   {%- endfor -%}
 </section>
 {% include '_news.liquid' %}
 <section>
-  {%- for content in collections.content limit:1 -%}
-    {{ content.templateContent }}
+  <h1>Online Resources</h1>
+  {%- for section in collections.homesection -%}
+  <section>
+    <h2>{{ section.data.title }}</h2>
+    {{ section.templateContent }}
+  </section>
   {%- endfor -%}
 </section>
