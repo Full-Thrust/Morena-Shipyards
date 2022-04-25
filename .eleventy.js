@@ -38,6 +38,73 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("styles");
   eleventyConfig.addPassthroughCopy("favicon.png");
 
+  // Link categories used by the site there are a lot
+
+  // STSTCS content
+  eleventyConfig.addCollection("ststcs-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "ststcs", "online");
+  });
+
+  // RPG content
+  eleventyConfig.addCollection("rpg-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "rpg", "online");
+  });
+
+  // model mini content
+  eleventyConfig.addCollection("model-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "model", "online");
+  });
+
+  // schematic mini content
+  eleventyConfig.addCollection("schematic-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "schematic", "online");
+  });
+  
+  // websites
+  eleventyConfig.addCollection("website-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "website", "online");
+  });
+
+  // repos
+  eleventyConfig.addCollection("repo-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "repo", "online");
+  });
+
+  // blogs
+  eleventyConfig.addCollection("blog-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "blog", "online");
+  });
+
+  // forum
+  eleventyConfig.addCollection("forum-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "forum", "online");
+  });
+
+  // facebook group
+  eleventyConfig.addCollection("facebook-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "facebook", "online");
+  });
+
+  // single videos
+  eleventyConfig.addCollection("video-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "video", "online");
+  });
+
+  // signle articles
+  eleventyConfig.addCollection("article-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "article", "online");
+  });
+
+  // online mailing lists
+  eleventyConfig.addCollection("email-online-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "email", "online");
+  });
+
+  // all offline lists
+  eleventyConfig.addCollection("offline-links", function(collectionApi) {
+    return collectionApi.getFilteredByTags("link", "offline");
+  });
+
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,

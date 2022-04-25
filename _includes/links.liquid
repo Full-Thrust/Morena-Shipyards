@@ -1,0 +1,36 @@
+---
+layout: base.liquid
+---
+<!-- All the links  -->
+<section>
+	<h1>Links</h1>
+	{% assign links = collections.link %}
+	{%- for link in links -%}
+    <div class="link">
+		<h4><a href="{{ link.data.url }}">{{ link.data.title }}</a></h4>
+		{{ link.templateContent }}
+    </div>
+	{%- endfor -%}
+</section>
+
+<section>
+  <h1>RPG</h1>
+  {% assign links = collections.rpg-online-links %}
+  {%- for link in links -%}
+    <div class="link">
+    <h4><a href="{{ link.data.url }}">{{ link.data.title }}</a></h4>
+    {{ link.templateContent }}
+    </div>
+  {%- endfor -%}
+</section>
+
+<section>
+  <h1>STSTCS</h1>
+	{% assign links = collections.ststcs-online-links %}
+	{%- for link in links -%}
+    <div class="link">
+		<h4><a href="{{ link.data.url }}">{{ link.data.title }}</a></h4>
+		{{ link.templateContent }}
+    </div>
+	{%- endfor -%}
+</section>
