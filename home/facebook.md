@@ -4,7 +4,7 @@ tags:
   - homesection
   - facebook
 ---
-There are several facebook groups you can join if you use facebook, these are in most active order:
+There are several **FASA* facebook groups you can join if you use facebook. These groups have large files collections of material that you can only access if you join. These are in most active order:
 
 ### FASA RPG
 
@@ -20,3 +20,5 @@ There are several facebook groups you can join if you use facebook, these are in
 - [Starship Modeler](https://www.facebook.com/groups/starshipmodeler) {.active}
 - [All Scale Trek](https://www.facebook.com/officialallscaletrek) {.active}
 - [SFU Miniatures Painting and Kitbashing Tips](https://www.facebook.com/groups/568564029852004) Star Fleet Battles but the painting guides apply to FASA {.active}
+
+
