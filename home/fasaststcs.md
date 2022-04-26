@@ -6,6 +6,8 @@ tags:
   - homesection
   - fasaststcs
 ---
+![FASA Products](/images/FASA-STSTCS.webp){.gallery} 
+
 Primarily on starship design & combat:
 
 - [**FASA** Star Trek Starship Tactical Combat Simulator](http://fasaststcs.com/) materials & supplements for **FASA's** Classic Star Trek Starship Combat Game{ .active }
