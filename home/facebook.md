@@ -1,16 +1,18 @@
 ---
 title: Facebook Groups
+date: 2022-04-03
+anchor: facebook
 tags: 
   - homesection
   - facebook
 ---
-There are several **FASA* facebook groups you can join if you use facebook. These groups have large files collections of material that you can only access if you join. These are in most active order:
+There are several **FASA** facebook groups you can join if you use facebook. These groups have large files collections of material that you can only access if you join:
 
 ### FASA RPG
 
-- [The **FASA** Star Trek Universe Facebook Group](https://www.facebook.com/groups/197388154479/) { .active }
+- [The **FASA** Star Trek Universe Facebook Group](https://www.facebook.com/groups/197388154479/) facebook group of the mailing list { .active }
 - [**FASA** Star Trek RPG](https://www.facebook.com/groups/fasastrpg) { .active }
-- [The FASA Star Trek Gaming Group 4760](https://www.facebook.com/groups/1806450362982917) Centralized Group for FASA Star Trek Gaming. The idea is to make it easier for those who want to play FASA Star Trek to meet and chat as well as game. {.active}
+- [The FASA Star Trek Gaming Group 4760](https://www.facebook.com/groups/1806450362982917) a centralized group for **FASA** Star Trek Gaming. The idea is to make it easier for those who want to play **FASA** Star Trek to meet and chat as well as game. {.active}
 
 ### FASA STSTCS
 
@@ -19,6 +21,6 @@ There are several **FASA* facebook groups you can join if you use facebook. Thes
 - [Star Trek Modelers Group](https://www.facebook.com/groups/startrekmodels) {.active}
 - [Starship Modeler](https://www.facebook.com/groups/starshipmodeler) {.active}
 - [All Scale Trek](https://www.facebook.com/officialallscaletrek) {.active}
-- [SFU Miniatures Painting and Kitbashing Tips](https://www.facebook.com/groups/568564029852004) Star Fleet Battles but the painting guides apply to FASA {.active}
+- [SFU Miniatures Painting and Kitbashing Tips](https://www.facebook.com/groups/568564029852004) Star Fleet Battles but the painting guides apply to **FASA** {.active}
 
 
