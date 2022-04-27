@@ -11,6 +11,7 @@
 --font-size-xx-display: 10vmax;
 --font-size-x-display: 8vmax;
 --font-size-display: 6vmax;
+--font-size-super-large: 3rem;
 --font-size-xxxx-large: 2.027rem;
 --font-size-xxx-large: 1.802rem;
 --font-size-xx-large: 1.602rem;
@@ -275,8 +276,8 @@ h1 {
 	font-family: var(--font-family-supertitle);
 	color: var(--color-subtitle);
   margin: var(--spacing-xx-large) 0 var(--spacing) 0;
-  font-size: var(--font-size-xxx-large);
-  font-weight: var(--font-weight-heavy);
+  font-size: var(--font-size-super-large);
+  font-weight: var(--font-weight);
   letter-spacing: 2px;
   text-transform: uppercase;
 }
