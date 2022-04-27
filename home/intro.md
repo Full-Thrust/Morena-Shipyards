@@ -1,7 +1,7 @@
 ---
 tags: homeintro
 ---
-# Morena Shipyards
+![Morena Shipyards](/images/MORENA.SVG){.halfWidth} {.gallery} 
 
 ![FASA 2204](/images/Cover.jpg){.gallery} 
 
