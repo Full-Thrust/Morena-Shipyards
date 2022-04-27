@@ -261,6 +261,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	font-family: var(--font-family-supertitle);
+	color: var(--color-subtitle);
   margin: var(--spacing-xx-large) 0 var(--spacing) 0;
   font-size: var(--font-size-xxx-large);
   font-weight: var(--font-weight-heavy);
