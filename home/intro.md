@@ -1,7 +1,7 @@
 ---
 tags: homeintro
 ---
-# Welcome to Morena Shipyards
+# Morena Shipyards
 
 ![FASA 2204](/images/Cover.jpg){.gallery} 
 

@@ -1,5 +1,6 @@
 ---
 layout: page.liquid
+cover: STAR-TREK-RPG.svg
 title: Morena Shipyards FASA Listing
 description: FASA Star Trek product listing
 templateClass: listing
@@ -7,7 +8,9 @@ eleventyNavigation:
   key: Listing
   order: 2
 ---
-# FASA Listing
+![STAR TREK The Role Playing Game](/images/STAR-TREK-RPG.svg){.halfWidth} {.gallery}
+
+Parts list for **STAR TREK The Role Playing Game** to get more details consult the [main parts listing](https://ufc465537.neocities.org/resources/xon/TheFasaListing/index.html). 
 ### 2000 Core Game & Supplements
 
 - 2001 Star Trek The Role Playing Game (First Edition)
@@ -124,7 +127,7 @@ eleventyNavigation:
 
 ### 2600 Figures
 
-- 2601 Captian Kirk
+- 2601 Captain Kirk
 - 2602 Mr. Spock
 - 2603 Dr. McCoy
 - 2604 Lt. Saavik

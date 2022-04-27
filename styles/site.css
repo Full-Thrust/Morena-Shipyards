@@ -3,6 +3,7 @@
 :root {
   --font-family: Arial, Helvetica, sans-serif;
   --font-family-title: Microgramma-Bold, sans-serif;
+	--font-family-supertitle: StarfleetBT-BoldExtended, Microgramma-Bold, sans-serif;
   --font-weight: 400;
   --font-weight-heavy: 800;
   
@@ -259,6 +260,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
+	font-family: var(--font-family-supertitle);
   margin: var(--spacing-xx-large) 0 var(--spacing) 0;
   font-size: var(--font-size-xxx-large);
   font-weight: var(--font-weight-heavy);
@@ -318,6 +320,22 @@ a:link {
   transition: color var(--duration-quickly) ease;
 }
 
+.fullWidth {
+	width: 100%;
+}
+
+.halfWidth {
+  width: 50%;
+}
+
+.thirdWidth {
+  width: 33%;
+}
+
+.quarterWidth {
+  width: 25%;
+}
+
 .text-align-center {
   text-align: center; 
 }
@@ -338,6 +356,10 @@ a:link {
 .caption {
 	margin: 0;
 	padding: 0;
+}
+
+.caption {
+	opacity: 0.6;
 }
 
 .gallery {
