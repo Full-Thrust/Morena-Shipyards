@@ -14,16 +14,14 @@
 --font-size-xxxx-large: 2.027rem;
 --font-size-xxx-large: 1.802rem;
 --font-size-xx-large: 1.602rem;
---font-size-xxx-large: 42px;
-
 --font-size-x-large: 1.424rem;
---font-size-x-large: 32px;
 --font-size-large: 1.266rem;
 --font-size-medium: 1.125rem;
---font-size-medium: 25px;
 --font-size: 1rem;
 --font-size-small: 0.889rem;
 --font-size-x-small: 0.75rem;
+--font-size-default: var(--font-size);
+
 
 --lineheight-text: 1.6;
 --lineheight-heading: 1.4;
@@ -75,7 +73,7 @@
 --border-width-thick: 5px;
 
 --grid-gap: 2vw;
---max-width: 40rem;
+--max-width: 50rem;
 
 --spacing-xx-small: .125rem;
 --spacing-x-small: .25rem;
@@ -86,6 +84,14 @@
 --spacing-x-large: 2rem;
 --spacing-xx-large: 3rem;
 }
+
+/* Set desktop values here */
+@media screen and (min-width: 480px) {
+	:root {
+		--font-size-default: var(--font-size-medium);
+	}
+}
+
 
 * {
   box-sizing: border-box;
@@ -104,12 +110,18 @@ html {
 body {
   margin: auto;
   /* padding: 0 2rem; */
-  font-size: 1rem;
+  font-size: var(--font-size-default);
   font-weight: 400;
   line-height: var(--lineheight-text);
   color: var(--color-text-default);
   font-family: sans-serif;
   color: var(--color-body);
+}
+
+@media screen and (min-width: 480px) {
+	body {
+		font-size: var(--font-size-medium);
+	}
 }
 
 main,nav,footer {
