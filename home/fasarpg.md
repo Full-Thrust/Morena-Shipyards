@@ -33,7 +33,7 @@ Primarily on FASA role playing system:
 Inactive sites, these have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
 
 - [Idahobeef](http://idahobeef.yolasite.com/) *Trek I am writing* section has some very well produced **FASA** trek adventures, settings, races and characters.{ .inactive }
-- [The Character Generator Project *wayback*](https://web.archive.org/web/20200708201508id/http://www.fasastartrek.com/) character generator the main site has a broken wordpress installation. {.inactive}
+- [The Character Generator Project *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) character generator the main site has a broken wordpress installation. {.inactive}
 - [Star Trek The Role Playing Game](http://www.karridian.net/startrek.html) logs and background from a campaign run in the 90s, nice read. {.inactive}
 - [Review of TNG sourcebooks](https://vakarangi.blogspot.com/search/label/FASA) {.inactive}
 - [Character sheets](http://www.mad-irishman.net/pub_fasatrek.html) {.inactive}
