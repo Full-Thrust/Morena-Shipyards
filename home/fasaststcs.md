@@ -22,10 +22,13 @@ Primarily on starship design & combat:
 Inactive sites, these have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
 
 - [Vintage Starships II](https://vintagestarships.wordpress.com/) early ship designs the glory years.{ .inactive }
-- [Starship Combat News](http://www.star-ranger.com/Home.htm) doesn't have a **FASA** section but lots of other useful resources.{ .inactive }
+- [Vintage Starships I](https://vintagestarships.tripod.com/mainpages/vintagestarships.htm) old version for historical interest {.inactive}
+- [Starship Combat News](http://www.star-ranger.com/Home.htm) doesn't have a **FASA** section but lots of other useful resources.{.inactive}
 - [Jack Bohn *wayback*](https://web.archive.org/web/20210126201741id_/http://userpages.bright.net/~jackbohn/sf/fasanac.htm) nacelle design and [ship listing *wayback*](https://web.archive.org/web/20210411210742id_/http://userpages.bright.net/~jackbohn/sf/shiplist.htm) {.inactive}
 - [Good Reads STSTCS review](https://www.goodreads.com/review/show/169999204) {.inactive}
 - [Unofficial Star Trek Starship Combat Game *wayback*](https://web.archive.org/web/19991110185604id_/https://www.customcpu.com/personal/colley/index.html)  {.inactive}
+- [Starfleet Battles](https://johnmsteele.com/wp-content/uploads/2013/06/SFBattles/sfbttls.html) John Steele's ship designs across several races and counter scans for the game {.active}
+- [Rokuratei](https://sites.google.com/site/newmeteoarchon/home) Some archived eccentricities, and a few hundred new ships, plus optional house rules and systems. Site is hard to use, also [Memory Eta](https://sites.google.com/site/memoryeta) has some content. {.inactive}
 
 ### Schematics 
 
@@ -44,6 +47,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Vassal &mdash; Star Trek: Starship Tactical Combat Simulator Module](https://vassalengine.org/wiki/Module:Star_Trek:_Starship_Tactical_Combat_Simulator) Vassal allows online play via a shared game board. {.active}
 - [Tabletop Simulator &mdash; Star Trek: Starship Tactical Combat Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1127863054) PC game on steam that allows online play this is a mod to load into the game. {.active}
 - [**FASA** 3D models for Star Fleet Command](https://mega.nz/file/z0V3iRjT#ZwW9MjrXLc_AbHCTw-l6nyJJ-R9Tj59ehqJXT9zMu3g) Many of the classic **FASA** designs for SFC. {.inactive}
+- [**FASA** STSTCS PC Game Resources](https://thefasastartrekuniversee-group.groups.io/g/main/files/ST:STCS%20Computer%20Version) folder full of resources for this great game. [Mailing list members only](#mailing-lists) {.active}
 
 ### Models & Miniatures
 

@@ -44,7 +44,8 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [**FASA** Star Trek: Maps](https://www.enworld.org/threads/fasa-star-trek-maps.334672/?fbclid=IwAR1-aDa1bhcxJcUR4V86zNZ8vry1W3jDPH1JTy8rIV345_-pQ1jVEwwdnlw)  {.inactive}
 - [American Wargamers Association &mdash; **FASA** posts](https://www.americanwargamersassociation.com/search/label/FASA) short writes up on the STSTCS game and **FASA** products. {.inactive}
 - [Grognardia &mdash; **FASA** posts](https://grognardia.blogspot.com/search/label/fasa) several **FASA** posts on various products including Star Trek {.inactive}
-- [Lithium, Cracking Station &mdash; **FASA** posts](http://lithiumcrackingstation.blogspot.com/search/label/FASA%20Star%20Trek%20RPG) optional rules and character generation tips {.inactive}
+- [Lithium, Cracking Station &mdash; **FASA** posts](http://lithiumcrackingstation.blogspot.com/search/label/FASA%20Star%20Trek%20RPG) optional rules and character generation tips.{.inactive}
+- [Star Trek: The Roleplaying Page *wayback*](http://web.archive.org/web/20010301230019id_/http://www.ziplink.net/~stack/fasatrek/fasa_trek.html)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.{.inactive}
 
 ### FASA Game Materials
 
