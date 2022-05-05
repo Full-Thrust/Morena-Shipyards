@@ -47,14 +47,25 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Lithium, Cracking Station &mdash; **FASA** posts](http://lithiumcrackingstation.blogspot.com/search/label/FASA%20Star%20Trek%20RPG) optional rules and character generation tips.{.inactive}
 - [Star Trek: The Roleplaying Page *wayback*](http://web.archive.org/web/20010301230019id_/http://www.ziplink.net/~stack/fasatrek/fasa_trek.html)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.{.inactive}
 
+### Miniatures
+
+- [Star Trek Miniature Maker 2.0](http://www.crowstuff.co.uk/MiniMaker/index.html) **desktop** only as it uses Unity plugin. Allows you to design paper cut out character minis very much usable for the Role Playing Game. [Explanation post](https://forums.modiphius.com/t/star-trek-paper-miniature-maker-browser-app/299). {.active}
+- [Continuing Mission &mdash; Paper Minature Hacks](https://continuingmissionsta.com/2018/12/18/paper-miniature-hacks/) Blog post about paper minis. {.active}
+- [Star Trek Adventures Miniatures: Original Series Landing Party](https://www.modiphius.net/collections/star-trek-adventures/products/star-trek-adventure-miniatures-original-series-landing-party) high quality resin miniatures ideal for the Role Playing Game, their stock levels vary worth getting these while you still can. {.active}
+- [Victory Force &mdash; Spacefarers](https://www.victoryforce.com/Merchant2/merchant.mvc?Session_ID=35f3811109996671e78475888269be91&Screen=CTGY&Store_Code=VFM&Category_Code=sfpacks) look alike Star Trek character miniatures. {.active}
+- [CP Models &mdash; Starship Crew](https://cpmodels.co.uk/product-category/28mm-ranges/28mm-sci-fi/star-ship-crew/) 28mm look alike Star Trek character miniatures. {.active}
+- [Heroclix &mdash; Away team](https://wizkids.com/heroclix/star-trek-heroclix-away-team/) still available on ebay the games wasn't a success so buy now. {.active}
+- [Nanoforce Star Trek Army Builder Figures](https://www.previewsworld.com/Article/252465-Make-an-Away-Team-with-Fanwares-New-PREVIEWS-Exclusive-Nanoforce-Star-Trek-Army-Builder-Figures) *USA* only at the moment so hefty import elsewhere, 2" inch" TOS and TNG figures. Great quality about $2 per figure. Limited release buy now. {.active}
+
 ### FASA Game Materials
 
 Archives of game materials:
 
 - [JT **FASA** Library](http://www.jt-sw.com/ststcs/docs.nsf) most extensive collection, slow download { .active }
-- [Trove **FASA** Library Archive](https://mega.nz/file/7lVWCRxa#rYI5mfn8zhuAdbsHT1MV1OqR5DbFOzx3WJkpcKcyG44) 3.8GB pretty much everything in one go, fast download { .active }
-- [Mediafire **FASA** Library](https://www.mediafire.com/?h8zeny7kkee55) &mdash; [FASA Fan Material](https://www.mediafire.com/?gaz5qo95b4q4z) &mdash; [FASA Magazines](https://www.mediafire.com/?9len7udfm68q7) large collection tedious Mediafire download manager { .active }
+- [Trove **FASA** Library Archive](https://mega.nz/file/7lVWCRxa#rYI5mfn8zhuAdbsHT1MV1OqR5DbFOzx3WJkpcKcyG44) *3.8 GB* pretty much everything **FASA** Star Trek the Role Playing Game, in one go, fast download { .active }
+- [Mediafire **FASA** Library](https://www.mediafire.com/?h8zeny7kkee55) &mdash; [**FASA** Fan Material](https://www.mediafire.com/?gaz5qo95b4q4z) &mdash; [**FASA** Magazines](https://www.mediafire.com/?9len7udfm68q7) large collection tedious Mediafire download manager { .active }
 - [Eye **FASA** Library](https://the-eye.eu/public/Books/rpg.rem.uz/Star%20Trek%20(FASA)/) only a subset of materials, slow download { .active }
+- [Instant Star Trek Technical Archive](https://mega.nz/file/Hw0y3JRZ#3vlajxAvMeWQfcsWPhs3XOtZSlwUocFiHHkyw0xHIsE) *1.4 GB* was a torrent, now access without waiting for seeders, covers FASA, LUG, Jackill's, Jaynz loads of stuff. {.active}
 
 ### Remote Play & Playaids
 

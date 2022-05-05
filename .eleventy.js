@@ -37,6 +37,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("styles");
   eleventyConfig.addPassthroughCopy("favicon.png");
+  eleventyConfig.addPassthroughCopy("robots.txt");
 
   // Link categories used by the site there are a lot
 
