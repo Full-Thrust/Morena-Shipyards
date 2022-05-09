@@ -16,7 +16,7 @@ Primarily on starship design & combat:
 - [	STCS: Starfleet's 8th Flotilla](http://starshipcombat.blogspot.com/) Star Trek according to **FASA** Ongoing Starship Tactical Combat Simulator campaign centered around Starfleet's 8th Border Flotilla, currently assigned to Klingon border patrol. { .active }
 - [Tactical Combat Simulator Missions](https://sites.google.com/site/tcsbattles/home) STSTCS scenarios and charts {.active}
 - [Construction for **FASA's** Starship Tactical Combat Simulator](https://sites.google.com/site/tngfasa/) Meteo's ship constructions {.active}
-- [Homebrewed Stats for Starships Final](http://tardiscaptain.com/2022/02/20/homebrewed-stats-for-starships-final/) mega scan of ship design folio {.active}
+- [Tardis Captain's homebrewed stats for starships](http://tardiscaptain.com/2022/02/20/homebrewed-stats-for-starships-final/) a mega scan of their ship design folio {.active}
 - [The Starship Files](https://starshipfiles.wordpress.com/) ship design & battle reports blog {.active}
 
 Inactive sites, these have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
