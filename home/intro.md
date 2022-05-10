@@ -16,3 +16,5 @@ The **FASA** Star Trek® Universe is a very different place to the contemporary 
 ![FASA 2204](/images/FASA-2204.jpg){.gallery2up} ![FASA 2204](/images/FASA-2204B.jpg){.gallery2up} {.gallery}
 
 FASA 2204 Ship Construction Manual Second Edition {.caption}
+
+![United Federation of Planets](/images/UFP.svg){.dividerImage} {.imageDivider}

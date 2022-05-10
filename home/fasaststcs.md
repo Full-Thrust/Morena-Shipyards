@@ -1,6 +1,7 @@
 ---
 title: FASA Star Trek Starship Tactical Combat Simulator
 anchor: fasaststcs
+divider: cargo-marker-6.svg
 date: 2022-04-06
 tags: 
   - homesection
@@ -75,6 +76,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Remembering Star Trek Starship Combat Role Playing Game](https://www.youtube.com/watch?v=R0cQg-tnzsQ) {.active}
 - [FASA Star Trek Tactical Combat Simulator and RPG](https://www.youtube.com/watch?v=ZrFjjgEU-40) {.active}
 - [Venom Geek Media 98](https://www.youtube.com/channel/UCbYfNtn-mW2wUwFn3Tithmw) channel has Star Trek battles across the timeline {.active}
+
 
 
 
