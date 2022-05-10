@@ -1,7 +1,7 @@
 ---
 title: Mailing Lists
 anchor: mailing-lists
-divider: cargo-marker-1.svg
+sectionid: section1
 date: 2022-03-01
 tags: 
   - homesection

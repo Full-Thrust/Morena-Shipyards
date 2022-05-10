@@ -306,6 +306,7 @@ h2 {
 
 h3 {
 	font-size: var(--font-size-medium);
+	color: var(--color-subtitle);
 }
 
 h4 {
@@ -446,4 +447,35 @@ img.gallery,
 	position: absolute;
 	height: 40px;
 	top: -20px;
+}
+
+h2.section {
+	padding-left: 4rem;
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 3.5rem;
+}
+
+h2.section1 {
+	background-image: url(/images/cargo-marker-1.svg);
+}
+
+h2.section2 {
+	background-image: url(/images/cargo-marker-2.svg);
+}
+
+h2.section3 {
+	background-image: url(/images/cargo-marker-3.svg);
+}
+
+h2.section4 {
+	background-image: url(/images/cargo-marker-4.svg);
+}
+
+h2.section5 {
+	background-image: url(/images/cargo-marker-5.svg);
+}
+
+h2.section6 {
+	background-image: url(/images/cargo-marker-6.svg);
 }

@@ -1,6 +1,6 @@
 ---
 title: Forums
-divider: cargo-marker-3.svg
+sectionid: section3
 date: 2022-04-02
 tags: 
   - homesection

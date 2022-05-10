@@ -12,8 +12,7 @@ templateClass: home
   <h1>Online Resources</h1>
   {%- for section in collections.homesection -%}
   <section>
-    <p class="imageDivider"><img class="dividerImage" src="/images/{{ section.data.divider }}"></p>
-    <h2 id="{{ section.data.anchor }}">{{ section.data.title }}</h2>
+    <h2 id="{{ section.data.anchor }}" class="section {{ section.data.sectionid }}">{{ section.data.title }}</h2>
     {{ section.templateContent }}
   </section>
   {%- endfor -%}

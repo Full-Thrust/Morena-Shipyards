@@ -1,7 +1,7 @@
 ---
 title: FASA Star Trek the Role Playing Game
 anchor: fasarpg
-divider: cargo-marker-5.svg
+sectionid: section5
 date: 2022-04-05
 tags: 
   - homesection
