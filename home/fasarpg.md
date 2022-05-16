@@ -62,11 +62,11 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 
 Archives of game materials:
 
-- [JT **FASA** Library](http://www.jt-sw.com/ststcs/docs.nsf) most extensive collection, slow download { .active }
-- [Trove **FASA** Library Archive](https://mega.nz/file/7lVWCRxa#rYI5mfn8zhuAdbsHT1MV1OqR5DbFOzx3WJkpcKcyG44) *3.8 GB* pretty much everything **FASA** Star Trek the Role Playing Game, in one go, fast download { .active }
-- [Mediafire **FASA** Library](https://www.mediafire.com/?h8zeny7kkee55) &mdash; [**FASA** Fan Material](https://www.mediafire.com/?gaz5qo95b4q4z) &mdash; [**FASA** Magazines](https://www.mediafire.com/?9len7udfm68q7) large collection tedious Mediafire download manager { .active }
-- [Eye **FASA** Library](https://the-eye.eu/public/Books/rpg.rem.uz/Star%20Trek%20(FASA)/) only a subset of materials, slow download { .active }
-- [Instant Star Trek Technical Archive](https://mega.nz/file/Hw0y3JRZ#3vlajxAvMeWQfcsWPhs3XOtZSlwUocFiHHkyw0xHIsE) *1.4 GB* was a torrent, now access without waiting for seeders, covers FASA, LUG, Jackill's, Jaynz loads of stuff. {.active}
+- [JT **FASA** Library](https://rebrand.ly/FASALibrary) most extensive collection, there is a search facility from this [listing in upload order](https://rebrand.ly/FASASearch), slow download { .active }
+- [Trove **FASA** Library Archive](https://rebrand.ly/FASAT) pretty much everything **FASA** Star Trek the Role Playing Game, in one go, fast download { .active }
+- [Mediafire **FASA** Library](https://rebrand.ly/FASAStarTrek) &mdash; [**FASA** Fan Material](https://rebrand.ly/FASAFans) &mdash; [**FASA** Magazines](https://rebrand.ly/FASAMags) large collection tedious Mediafire download manager { .active }
+- [Eye **FASA** Library](https://rebrand.ly/FASABooks) only a subset of materials, slow download { .active }
+- [Instant Star Trek Technical Archive](https://rebrand.ly/StarTrekTechnical) was a torrent, now access without waiting for seeders, covers FASA, LUG, Jackill's, Jaynz loads of stuff. {.active}
 
 ### Remote Play & Playaids
 
