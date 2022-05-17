@@ -34,7 +34,6 @@ Primarily on FASA role playing system:
 Inactive sites, these have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
 
 - [Idahobeef](http://idahobeef.yolasite.com/) *Trek I am writing* section has some very well produced **FASA** trek adventures, settings, races and characters.{ .inactive }
-- [The Character Generator Project *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) character generator the main site has a broken wordpress installation. {.inactive}
 - [Star Trek The Role Playing Game](http://www.karridian.net/startrek.html) logs and background from a campaign run in the 90s, nice read. {.inactive}
 - [Review of TNG sourcebooks](https://vakarangi.blogspot.com/search/label/FASA) {.inactive}
 - [Character sheets](http://www.mad-irishman.net/pub_fasatrek.html) {.inactive}
@@ -45,8 +44,9 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [**FASA** Star Trek: Maps](https://www.enworld.org/threads/fasa-star-trek-maps.334672/?fbclid=IwAR1-aDa1bhcxJcUR4V86zNZ8vry1W3jDPH1JTy8rIV345_-pQ1jVEwwdnlw)  {.inactive}
 - [American Wargamers Association &mdash; **FASA** posts](https://www.americanwargamersassociation.com/search/label/FASA) short writes up on the STSTCS game and **FASA** products. {.inactive}
 - [Grognardia &mdash; **FASA** posts](https://grognardia.blogspot.com/search/label/fasa) several **FASA** posts on various products including Star Trek {.inactive}
-- [Lithium, Cracking Station &mdash; **FASA** posts](http://lithiumcrackingstation.blogspot.com/search/label/FASA%20Star%20Trek%20RPG) optional rules and character generation tips.{.inactive}
-- [Star Trek: The Roleplaying Page *wayback*](http://web.archive.org/web/20010301230019id_/http://www.ziplink.net/~stack/fasatrek/fasa_trek.html)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.{.inactive}
+- [Lithium, Cracking Station &mdash; **FASA** posts](http://lithiumcrackingstation.blogspot.com/search/label/FASA%20Star%20Trek%20RPG) optional rules and character generation tips see also [character generator project &ndash; *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) .{.inactive}
+- [The Character Generator Project &ndash; *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) character generator the main site has a broken wordpress installation. This site is a sub-site of the [Lithium Cracking Station blog](http://lithiumcrackingstation.blogspot.com). {.inactive}
+- [Star Trek: The Roleplaying Page &ndash; *wayback*](http://web.archive.org/web/20010301230019id_/http://www.ziplink.net/~stack/fasatrek/fasa_trek.html)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.{.inactive}
 
 ### Miniatures
 
