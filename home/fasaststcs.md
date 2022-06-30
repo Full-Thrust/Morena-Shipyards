@@ -52,6 +52,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 
 ### Models & Miniatures
 
+- [Captain Mojo Cults 3D](https://cults3d.com/en/users/Captain_Mojo/creations) printable 3D FASA models by Tycen Hopkins, lots of details on each model page explaining how to use the files. { .active }
 - [Federation Models](http://www.federationmodels.com/) Star Trek garage kits. { .active }
 - [Starship Modeler](http://www.starshipmodeler.com/index.htm) is the complete information resource for the science fiction, factual space, fantasy, mecha and anime scale model builder. { .active }
 - [Kitbash](https://kitbash.net/scifi.html) Star Trek models {.active}
