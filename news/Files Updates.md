@@ -1,5 +1,5 @@
 ---
-tags: news
+tags: xnews
 title: File Updates
 date: 2022-06-30
 ---
