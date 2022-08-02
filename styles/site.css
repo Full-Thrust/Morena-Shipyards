@@ -416,6 +416,11 @@ img.gallery,
 	padding: var(--spacing) 0 var(--spacing-large);
 }
 
+.newsList {
+	overflow: auto;
+	height: 50vh;
+}
+
 .newsSummary p {
 	margin: 0 0 1rem 1rem;
 }
