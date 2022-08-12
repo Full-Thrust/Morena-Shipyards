@@ -7,7 +7,7 @@ tags:
   - homesection
   - fasarpg
 ---
-![FASA Products](/images/FASA-RPG.webp){.gallery} 
+![FASA Products](/images/FASA-RPG.webp "Selection of FASA Star Trek the Role Playing Game products" ){.gallery} 
 
 Primarily on FASA role playing system:
 

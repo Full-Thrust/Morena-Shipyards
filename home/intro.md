@@ -13,7 +13,7 @@ The **FASA** Star Trek® Universe is a very different place to the contemporary 
 
 **Morena Shipyards** is primarily about ship design based on the **FASA** ship construction rules.
 
-![FASA 2204](/images/FASA-2204.jpg){.gallery2up} ![FASA 2204](/images/FASA-2204B.jpg){.gallery2up} {.gallery}
+![FASA 2204](/images/FASA-2204.jpg "FASA 2204 Ship Construction Manual Second Edition"){.gallery2up} ![FASA 2204](/images/FASA-2204B.jpg "FASA 2204 Ship Construction Manual Second Edition"){.gallery2up} {.gallery}
 
 FASA 2204 Ship Construction Manual Second Edition {.caption}
 

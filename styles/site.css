@@ -391,10 +391,6 @@ a:link {
 	padding: 0;
 }
 
-.caption {
-	opacity: 0.6;
-}
-
 .gallery {
 	display: flex;
 	justify-content: space-evenly;
@@ -407,14 +403,6 @@ img.gallery,
 	border: 1px solid var(--mid-blue);
 	border-radius: 4px;
 }*/
-
-
-
-.caption {
-	text-align: center;
-	font-size: var(--font-size-x-small);
-	padding: var(--spacing) 0 var(--spacing-large);
-}
 
 .newsList {
 	overflow: auto;
@@ -483,4 +471,33 @@ h2.section5 {
 
 h2.section6 {
 	background-image: url(/images/cargo-marker-6.svg);
+}
+
+.caption {
+	padding: 0.5rem 1rem 0.5rem 1rem;
+	text-align: center;
+}
+
+figcaption {
+	position: relative;
+	padding: 0.5rem 0 0.5rem 2rem;
+}
+
+.caption,
+figcaption {
+	font-size: var(--font-size-x-small);
+	color: var(--color-text-default);
+	line-height: 1.2;
+}
+
+figcaption::before {
+	position: absolute;
+	left:0;
+	top: 0.3rem;
+	content: " ";
+	display: block;
+	width : 1.5rem;
+	height: 0.75rem;
+	border-bottom: 1px solid var(--color-text-default);
+	border-left: 1px solid var(--color-text-default);
 }

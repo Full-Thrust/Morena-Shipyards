@@ -6,7 +6,8 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
-const markdownItAttrs = require('markdown-it-attrs');
+const markdownItAttrs = require("markdown-it-attrs");
+const markdownItFigcap = require("markdown-it-image-figures");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -111,14 +112,21 @@ module.exports = function(eleventyConfig) {
     html: true,
     breaks: true,
     linkify: true
-  }).use(markdownItAnchor, {
+  });
+
+  markdownLibrary.use(markdownItAnchor, {
     permalink: false,
     permalinkClass: "direct-link",
     permalinkSymbol: "#"
   });
+
   markdownLibrary.use(fa);
   markdownLibrary.use(markdownItAnchor);
   markdownLibrary.use(markdownItAttrs);
+  markdownLibrary.use(markdownItFigcap, {
+    figcaption: true
+  });
+
 
   eleventyConfig.setLibrary("md", markdownLibrary);
 

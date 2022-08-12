@@ -7,7 +7,7 @@ tags:
   - homesection
   - fasaststcs
 ---
-![FASA Products](/images/FASA-STSTCS.webp){.gallery} 
+![FASA Products](/images/FASA-STSTCS.webp "Versions of the STSTCS game"){.gallery} 
 
 Primarily on starship design & combat:
 
