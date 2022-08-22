@@ -49,6 +49,7 @@
 
 	/* SFC */
 
+	--black: #000000;
 	--darkest-blue: #080B12;
 	--dark-blue: #161F33;
 	--mid-blue: #0878D8;
@@ -59,7 +60,8 @@
 	--light-yellow: #F8F800;
 	--amber: #FFBF00;
 
-	--color-background: var(--darkest-blue);
+	--color-background: var(--black);
+	--color-page: var(--darkest-blue);
 	--color-body: var(--white);
 	--color-title: var(--mid-blue);
 	--color-subtitle: var(--light-blue);
@@ -101,6 +103,11 @@
 }
 
 html {
+	background: url(/images/starfield2.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	background-color: var(--color-background);
 	overflow-x: hidden;
 	-webkit-text-size-adjust: 100%;
@@ -109,6 +116,7 @@ html {
 html {
 	/* background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%); */
 }
+
 
 body {
 	margin: auto;
@@ -131,11 +139,19 @@ main,
 nav,
 footer {
 	margin: 0 auto;
+	background-color: var(--color-page);
+	max-width: var(--max-width);
 }
 
 main {
 	max-width: var(--max-width);
-	padding: 0 1rem;
+	padding: 0 1rem 4rem 1rem;
+}
+
+@media screen and (min-width: 480px) {
+	main {
+		padding: 0 2rem 4rem 2rem;
+	}
 }
 
 nav ul,
@@ -159,11 +175,11 @@ img {
 
 footer,
 nav {
-	background-color: var(--color-background);
+	background-color: var(--color-page);
 }
 
 footer {
-	margin-top: var(--spacing-xx-large);
+	/*margin-top: var(--spacing-xx-large);*/
 }
 
 nav {
@@ -430,7 +446,7 @@ img.gallery,
 }
 
 .imageDivider {
-	margin: 40px 0;
+	margin: 2rem 0;
 	padding: 1px;
 	background-image: linear-gradient(to right, var(--dark-blue), var(--mid-blue), var(--darkest-blue), var(--mid-blue), var(--dark-blue));
 	position: relative;
@@ -492,11 +508,11 @@ figcaption {
 
 figcaption::before {
 	position: absolute;
-	left:0;
+	left: 0;
 	top: 0.3rem;
 	content: " ";
 	display: block;
-	width : 1.5rem;
+	width: 1.5rem;
 	height: 0.75rem;
 	border-bottom: 1px solid var(--color-text-default);
 	border-left: 1px solid var(--color-text-default);
