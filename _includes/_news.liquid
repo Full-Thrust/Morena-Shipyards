@@ -1,6 +1,6 @@
 <!-- Latest 10 news items -->
 <section class="news">
-	<h1>News</h1>
+	<h1 id="news">News</h1>
 	<div class="newsList">
 	{% assign newsItems = collections.news | reverse %}
 	{%- for news in newsItems limit:10 -%}

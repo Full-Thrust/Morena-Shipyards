@@ -60,7 +60,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 
 ### FASA Game Materials
 
-Archives of game materials:
+Archives of game materials for download:
 
 - [JT **FASA** Library](https://rebrand.ly/FASALibrary) most extensive collection, there is a search facility from this [listing in upload order](https://rebrand.ly/FASASearch), slow download { .active }
 - [Trove **FASA** Library Archive](https://rebrand.ly/FASAT) pretty much everything **FASA** Star Trek the Role Playing Game, in one go, fast download { .active }
