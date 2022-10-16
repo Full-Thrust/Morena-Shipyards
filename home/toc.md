@@ -8,7 +8,7 @@ anchor: toc
 - [FASA Mailing Lists][mailinglist]
 - [Morena Shipyards Projects][projects]
 - [FASA Forums][forums]
-- [FASAFacebook Groups][facebook]
+- [FASA Facebook Groups][facebook]
 - [FASA Star Trek the Role Playing Game][rpg]
 - [FASA Star Trek Starship Tactical Combat Simulator][ststcs]
 
