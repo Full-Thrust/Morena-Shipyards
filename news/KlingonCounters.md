@@ -1,7 +1,7 @@
 ---
 tags: news
 title: Klingon Counters
-date: 2022-10-19
+date: 2022-10-18
 ---
 [Letter size: Printable 1 inch counters for all core Klingon ships](https://thefasastartrekuniversee-group.groups.io/g/MorenaShipyards/files/STCS%20Game/Starship%20Counters/Klin%20Letter.pdf)
 
