@@ -44,7 +44,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 
 ### Games & Remote Play
 
-- [**FASA** STSTCS PC Game](https://gaming.trekcore.com/starshiptactical/downloads.html) play STSTCS on your PC there is a huge amount of stuff available in the list archives. [how to get the STSTCS PC game to work.](http://sitzkrieg.blogspot.com/2018/10/gaming-like-its-1989-installing-fasa.html) works on Windows 7 & 10 if you persevere. {.inactive}
+- [**FASA** STSTCS PC Game](https://gaming.trekcore.com/starshiptactical/downloads.html) play STSTCS on your PC there is a huge amount of stuff available in the list archives. [how to get the STSTCS PC game to work.](http://sitzkrieg.blogspot.com/2018/10/gaming-like-its-1989-installing-fasa.html) works on Windows 7 & 10 if you persevere. [STSTCS Visual Basic Toolkit](https://e1.pcloud.link/publink/show?code=XZPxr8ZUPhLKqJpBvhM5a99PgWEjkX8LjFy) contains one place to get all the Visual Basic files required to get it working on Windows 10 {.inactive}
 - [Vassal &mdash; Star Trek: Starship Tactical Combat Simulator Module](https://vassalengine.org/wiki/Module:Star_Trek:_Starship_Tactical_Combat_Simulator) Vassal allows online play via a shared game board. {.active}
 - [Tabletop Simulator &mdash; Star Trek: Starship Tactical Combat Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1127863054) PC game on steam that allows online play this is a mod to load into the game. {.active}
 - [**FASA** 3D models for Star Fleet Command](https://mega.nz/file/z0V3iRjT#ZwW9MjrXLc_AbHCTw-l6nyJJ-R9Tj59ehqJXT9zMu3g) Many of the classic **FASA** designs for SFC. {.inactive}
