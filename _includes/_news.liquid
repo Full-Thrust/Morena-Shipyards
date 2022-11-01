@@ -1,14 +1,14 @@
 <!-- Latest 10 news items -->
 <section class="news">
-	<h1 id="news">News</h1>
-	<div class="newsList">
-	{% assign newsItems = collections.news | reverse %}
+  <h1 id="news">News</h1>
+  <div class="newsList">
+    {% assign newsItems = collections.news | reverse %}
 	{%- for news in newsItems limit:10 -%}
-		<div class="newsSummary">
-		<span class="newsDate">{{ news.date | date: "%a, %b %d" }}</span>
-		<span class="newsTitle">{{ news.data.title }}</span>
-		{{ news.templateContent }}
-		</div>
+	  <div class="newsSummary">
+	    <span class="newsDate">{{ news.date | date: "%a, %b %d" }}</span>
+	    <span class="newsTitle">{{ news.data.title }}</span>
+	    {{ news.templateContent }}
+      </div>
 	{%- endfor -%}
 	</div>
 	 <p class="imageDivider"><img class="dividerImage" src="/images/transporter.svg"></p>

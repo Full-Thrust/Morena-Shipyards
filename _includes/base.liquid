@@ -1,20 +1,20 @@
 <!doctype html>
 <html lang="en">
   <head>
+	<title>{{ title }}</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<!-- stop snoopers -->
-		<meta name="robots" content="noindex">
-		<title>{{ title }}</title>
+	 <!-- stop snoopers -->
+	<meta name="robots" content="noindex">
     <meta name="Description" content="{{ description }}">
-		<link rel="icon" type="image/x-icon" href="{{ '/images/favicon.png' | url }}">
-		<link rel="stylesheet" href="{{ '/styles/site.css' | url }}">
+	<link rel="icon" type="image/x-icon" href="{{ '/images/favicon.png' | url }}">
+	<link rel="stylesheet" href="{{ '/styles/site.css' | url }}">
   </head>
   <body>
-		{%include '_nav.liquid' %}
-		<main {% if templateClass %} class="{{ templateClass }}"{% endif %}>
-			{{ content }}
-		</main>
-		{%include '_footer.liquid' %}
+	{%include '_nav.liquid' %}
+	<main {% if templateClass %} class="{{ templateClass }}"{% endif %}>
+		{{ content }}
+	</main>
+	{%include '_footer.liquid' %}
   </body>
 </html>
