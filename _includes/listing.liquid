@@ -1,0 +1,27 @@
+---
+layout: base.liquid
+templateClass: listing
+---
+<section>
+  {%- for intro in collections.listingintro limit:1 -%}
+	{{ intro.templateContent }}
+  {%- endfor -%}
+</section>
+
+{%- for section in collections.listsection -%}
+
+<section>
+  <h2 id="{{ section.data.anchor }}" class="section {{ section.data.sectionid }}">{{ section.data.title }}</h2>
+  {{ section.templateContent }}
+</section>
+
+{%- endfor -%}
+
+<section>
+  {%- for intro in collections.listingfallback limit:1 -%}
+  
+  {{ intro.templateContent }}
+  
+  {%- endfor -%}
+</section>
+
