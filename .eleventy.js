@@ -93,7 +93,7 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByTags("link", "video", "online");
   });
 
-  // signle articles
+  // single articles
   eleventyConfig.addCollection("article-online-links", function(collectionApi) {
     return collectionApi.getFilteredByTags("link", "article", "online");
   });
@@ -106,6 +106,12 @@ module.exports = function(eleventyConfig) {
   // all offline lists
   eleventyConfig.addCollection("offline-links", function(collectionApi) {
     return collectionApi.getFilteredByTags("link", "offline");
+  });
+  
+  // PRODUCT
+  // Game products
+  eleventyConfig.addCollection("product-game", function(collectionApi) {
+    return collectionApi.getFilteredByTags("product", "game");
   });
 
   /* Markdown Overrides */

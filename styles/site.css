@@ -88,12 +88,15 @@
 	--spacing-large: 1.5rem;
 	--spacing-x-large: 2rem;
 	--spacing-xx-large: 3rem;
+	
+	--image-product: 100%;
 }
 
 /* Set desktop values here */
 @media screen and (min-width: 480px) {
 	:root {
 		--font-size-default: var(--font-size-medium);
+		--image-product: 50%;
 	}
 }
 
@@ -361,6 +364,14 @@ li.inactive::before {
 	color: var(--amber);
 }
 
+.adventure {
+	color: var(--mid-blue);
+}
+
+.supplement {
+	color: var(--light-yellow);
+}
+
 a:hover {
 	color: var(--color-link-hover);
 }
@@ -516,4 +527,12 @@ figcaption::before {
 	height: 0.75rem;
 	border-bottom: 1px solid var(--color-text-default);
 	border-left: 1px solid var(--color-text-default);
+}
+
+/* Product main image*/
+.cover {
+  display: block;
+  width: var(--image-product);
+  margin-left: auto;
+  margin-right: auto;
 }

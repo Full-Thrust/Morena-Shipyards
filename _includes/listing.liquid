@@ -8,20 +8,21 @@ templateClass: listing
   {%- endfor -%}
 </section>
 
-{%- for section in collections.listsection -%}
-
+{%- for section in collections.listing -%}
 <section>
-  <h2 id="{{ section.data.anchor }}" class="section {{ section.data.sectionid }}">{{ section.data.title }}</h2>
-  {{ section.templateContent }}
+{{ section.templateContent }}
 </section>
-
 {%- endfor -%}
 
 <section>
-  {%- for intro in collections.listingfallback limit:1 -%}
-  
-  {{ intro.templateContent }}
-  
-  {%- endfor -%}
+<!-- Product Full Listing -->
+<h3>2001 - 2011 Core Game & Supplements</h3>
+<ul>
+{%- for product in collections.product-game -%}
+<li>
+  <a href="{{product.url}}">{{ product.data.title }}</a><br>
+  Stock# <span class="stock">{{product.data.stock}}<span> ISBN <span class="isbn">{{ product.data.isbn }}</span>
+</li>
+{%- endfor -%}
+</ul>
 </section>
-
