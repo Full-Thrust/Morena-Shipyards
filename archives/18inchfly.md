@@ -2,7 +2,7 @@
 tags: archive
 title: Star Trek Campaigns
 domain:  www.18inchfly.net
-url: /archive/www.18inchfly.net.zip
+url: https://18inchfly.netlify.app/startrek/
 date: 2022-11-05
 ---
 ## [{{ title }}]({{url}})
