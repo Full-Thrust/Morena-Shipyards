@@ -2,7 +2,7 @@
 tags: archive
 title: Star Trek Military Operations
 domain:  www.geocities.com/tolson55
-url: /archive/tolson55.zip
+url: https://tolson55.netlify.app/hastings.htm
 date: 2022-11-05
 ---
 ## [{{ title }}]({{url}})

@@ -2,7 +2,7 @@
 tags: archive
 title: FASA Star Trek
 domain:  fasastartrek.com
-url: /archive/fasastartrek.com.zip
+url: https://fasastartrek.netlify.app/pen%20and%20paper%20character%20creation
 date: 2022-11-05
 ---
 ## [{{ title }}]({{url}})

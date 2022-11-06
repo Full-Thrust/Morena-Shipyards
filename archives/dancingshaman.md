@@ -2,7 +2,7 @@
 tags: archive
 title: Battlestations
 domain:  www.dancingshaman.net
-url: /archive/www.dancingshaman.net.zip
+url: https://dancingshaman.netlify.app/
 date: 2022-11-05
 ---
 ## [{{ title }}]({{url}})
