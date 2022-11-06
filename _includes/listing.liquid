@@ -20,7 +20,7 @@ templateClass: listing
 <ul>
 {%- for product in collections.product-game -%}
 <li>
-  <a href="{{product.url}}">{{ product.data.title }}</a><br>
+  <a href="{{product.url}}" name="{{product.data.stock}}">{{ product.data.title }}</a><br>
   Stock# <span class="stock">{{product.data.stock}}<span> ISBN <span class="isbn">{{ product.data.isbn }}</span>
 </li>
 {%- endfor -%}
