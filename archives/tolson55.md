@@ -8,5 +8,5 @@ date: 2022-11-05
 ## [{{ title }}]({{url}}){target="_blank"}
 [{{ domain }}]({{url}}){target="_blank"}
 
-Created by T Olson it contains a lot of ineresting content including a computer like site navigation interface. Based on the USS Hastings it's part role play and part FASA knowledge base. Lots of content have an explore. Unzip the archive and open hastings.htm.
+Created by T Olson it contains a lot of ineresting content including a computer like site navigation interface. Based on the USS Hastings it's part role play and part FASA knowledge base. Lots of content have an explore.
 

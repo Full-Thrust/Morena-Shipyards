@@ -8,5 +8,5 @@ date: 2022-11-05
 ## [{{ title }}]({{url}}){target="_blank"}
 [{{ domain }}]({{url}}){target="_blank"}
 
-Dancing Shaman Productions had a nice site with scenarios and revied rules. It was a small but well formed site, with very high production values. Unzip and open index.html.
+Dancing Shaman Productions had a nice site with scenarios and revised rules. It was a small but well formed site, with very high production values. 
 
