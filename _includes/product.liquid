@@ -6,9 +6,14 @@ layout: base.liquid
 <a href="{{ navPages[0].url}}#{{stock}}">Back to listing</a>
 <section>
   <h2>{{ title }}</h2>
-  <h3>Stock <span class="stock">#{{ stock }}</span></h3>
-  <h3>ISBN <span class="isbn">{{ isbn }}</span></h3>
-  <img class="cover" src="/images/{{ cover }}" alt="{{ title }}" >
+  <div class="flexMeta">
+    <h3>Stock <span class="stock">#{{ stock }}</span></h3>
+    <h3>ISBN <span class="isbn">{{ isbn }}</span></h3>
+  </div>
+  <figure class="cover">
+    <img  src="/images/{{ cover }}" alt="{{ title }}" >
+    <figcaption>{{ title }}</figcaption>
+  </figure>
   {{ content }}
 </section>
 

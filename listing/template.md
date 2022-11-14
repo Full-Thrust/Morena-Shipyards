@@ -3,7 +3,7 @@ title:
 stock: 
 isbn: 
 cover: 
-layout: list-item.liquid
+layout: product.liquid
 tags: 
   - listing
   - game

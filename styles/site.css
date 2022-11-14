@@ -38,6 +38,7 @@
 	--color-background-selection: #D3D3E1;
 	--color-border: #D8D8D8;
 	--color-text-default: #525F7F;
+	--color-text-dark: #2d3446;
 	--color-accent: #503981;
 	--color-text-link: #6772EE;
 	--color-text-link-active: var(--color-text-link);
@@ -90,6 +91,7 @@
 	--spacing-xx-large: 3rem;
 	
 	--image-product: 100%;
+	--flex-meta: column;
 }
 
 /* Set desktop values here */
@@ -97,6 +99,7 @@
 	:root {
 		--font-size-default: var(--font-size-medium);
 		--image-product: 50%;
+		--flex-meta: row;
 	}
 }
 
@@ -535,4 +538,17 @@ figcaption::before {
   width: var(--image-product);
   margin-left: auto;
   margin-right: auto;
+}
+
+.cover img {
+	border-top: 1px solid var(--color-text-default);
+	border-left: 1px solid var(--color-text-default);
+	border-bottom: 1px solid var(--color-text-dark);
+	border-right: 1px solid var(--color-text-dark);
+}
+
+.flexMeta {
+	display:flex;
+	flex-direction: var(--flex-meta);
+	justify-content: space-between;
 }

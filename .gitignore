@@ -2,3 +2,5 @@ _site/
 hi-res/
 node_modules/
 package-lock.json
+*.afdesign
+*.afphoto
