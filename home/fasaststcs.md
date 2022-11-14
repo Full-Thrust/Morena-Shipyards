@@ -30,6 +30,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Unofficial Star Trek Starship Combat Game &ndash; *wayback*](https://web.archive.org/web/19991110185604id_/https://www.customcpu.com/personal/colley/index.html)  {.inactive}
 - [Starfleet Battles](https://johnmsteele.com/wp-content/uploads/2013/06/SFBattles/sfbttls.html) John Steele's ship designs across several races and counter scans for the game {.active}
 - [Rokuratei](https://sites.google.com/site/newmeteoarchon/home) Some archived eccentricities, and a few hundred new ships, plus optional house rules and systems. Site is hard to use, also [Memory Eta](https://sites.google.com/site/memoryeta) has some content. {.inactive}
+- [USS Hastings](https://tolson55.netlify.app/hastings.htm) Archived optional rules and use of the game for the fictional USS Hastings
 
 ### Schematics 
 
