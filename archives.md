@@ -6,6 +6,6 @@ description: Fan sites archived
 templateClass: listing
 eleventyNavigation:
   key: Archive
-  order: 3
+  order: 4
 ---
 

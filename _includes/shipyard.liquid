@@ -1,0 +1,22 @@
+---
+layout: base.liquid
+templateClass: listing
+---
+<section>
+	{{ content }}
+</section>
+
+
+<section>
+  <h2>Klingon</h2>
+  <ul>
+  {%- for ship in collections.ship-klingon -%}
+
+	<li><a href="{{ship.url}}" name="{{ship.data.id}}">{{ ship.data.title }}</a></li>
+
+  {%- endfor -%}
+  </ul>
+</section>
+
+ 
+

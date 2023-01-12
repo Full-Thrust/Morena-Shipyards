@@ -1,0 +1,25 @@
+---
+layout: base.liquid
+---
+<!-- https://www.viewstl.com/plugin/ -->
+<script src="/code/stl_viewer.min.js"></script>
+
+
+<!-- Display a ship  -->
+{% assign navPages = collections.all | eleventyNavigationBreadcrumb: "Ship" %}
+<a href="{{ navPages[0].url}}#{{id}}">Back to ships</a>
+<section>
+  <h2>{{ title }}</h2>
+  <div class="flexMeta">
+    <h3>Author <span class="stock">{{ author }}</span></h3>
+    <p><a href="{{ download }}" target="_blank">Download</a></p>
+  </div>
+  
+  {{ content }}
+
+  <div id="STLViewer" style="height:50vh"></div>
+  <script>
+	  var stl_viewer=new StlViewer(document.getElementById("STLViewer"), { models: [ {id:0, filename:"{{ model }}"} ] });
+  </script>
+</section>
+

@@ -37,6 +37,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("styles");
+  eleventyConfig.addPassthroughCopy("code");
   eleventyConfig.addPassthroughCopy("favicon.png");
   eleventyConfig.addPassthroughCopy("robots.txt");
 
@@ -112,6 +113,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("product-game", function(collectionApi) {
     return collectionApi.getFilteredByTags("product", "game");
   });
+
+  // SHIPS
+  // Klingon ships
+  eleventyConfig.addCollection("ship-klingon", function(collectionApi) {
+    return collectionApi.getFilteredByTags("ship", "klingon");
+  });
+
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
