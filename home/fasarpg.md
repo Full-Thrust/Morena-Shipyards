@@ -67,7 +67,7 @@ Archives of out of print game materials for download as digital backups for thos
 - [Mediafire **FASA** Library](https://rebrand.ly/FASAStarTrek) &mdash; [**FASA** Fan Material](https://rebrand.ly/FASAFans) &mdash; [**FASA** Magazines](https://rebrand.ly/FASAMags) large collection tedious Mediafire download manager { .active }
 - [Eye **FASA** Library](https://rebrand.ly/FASABooks) only a subset of materials, slow download { .active }
 - [Instant Star Trek Technical Archive](https://rebrand.ly/StarTrekTechnical) was a torrent, now access without waiting for seeders, covers FASA, LUG, Jackill's, Jaynz loads of stuff. {.active}
-- [Internet Archive **FASA** Library](https://ia804601.us.archive.org/view_archive.php?archive=/21/items/rpg.rem.uz/Star_Trek_FASA.tar) shlow doanload of the rpg.re.uz archive. {.active}
+- [Internet Archive **FASA** Library](https://ia804601.us.archive.org/view_archive.php?archive=/21/items/rpg.rem.uz/Star_Trek_FASA.tar) slow download of the now offline rpg.re.uz archive. {.active}
 
 ### Remote Play & Playaids
 
