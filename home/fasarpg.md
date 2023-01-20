@@ -60,13 +60,14 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 
 ### FASA Game Materials
 
-Archives of game materials for download:
+Archives of out of print game materials for download as digital backups for those that own the physical original source:
 
 - [JT **FASA** Library](https://rebrand.ly/FASALibrary) most extensive collection, there is a search facility from this [listing in upload order](https://rebrand.ly/FASASearch), slow download { .active }
 - [Trove **FASA** Library Archive](https://rebrand.ly/FASAT) pretty much everything **FASA** Star Trek the Role Playing Game, in one go, fast download { .active }
 - [Mediafire **FASA** Library](https://rebrand.ly/FASAStarTrek) &mdash; [**FASA** Fan Material](https://rebrand.ly/FASAFans) &mdash; [**FASA** Magazines](https://rebrand.ly/FASAMags) large collection tedious Mediafire download manager { .active }
 - [Eye **FASA** Library](https://rebrand.ly/FASABooks) only a subset of materials, slow download { .active }
 - [Instant Star Trek Technical Archive](https://rebrand.ly/StarTrekTechnical) was a torrent, now access without waiting for seeders, covers FASA, LUG, Jackill's, Jaynz loads of stuff. {.active}
+- [Internet Archive **FASA** Library](https://ia804601.us.archive.org/view_archive.php?archive=/21/items/rpg.rem.uz/Star_Trek_FASA.tar) shlow doanload of the rpg.re.uz archive. {.active}
 
 ### Remote Play & Playaids
 
