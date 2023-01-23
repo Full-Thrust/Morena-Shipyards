@@ -4,7 +4,6 @@ layout: base.liquid
 <!-- https://www.viewstl.com/plugin/ -->
 <script src="/code/stl_viewer.min.js"></script>
 
-
 <!-- Display a ship  -->
 {% assign navPages = collections.all | eleventyNavigationBreadcrumb: "Ship" %}
 <a href="{{ navPages[0].url}}#{{id}}">Back to ships</a>
@@ -15,12 +14,26 @@ layout: base.liquid
     <p>{{ source }}</p>
     <p><a href="{{ download }}" target="_blank">Download</a></p>
   </div>
-  
   {{ content }}
-
+  <div class="STLProgress">
+    <p id="STLFileLoading" >Loading Model ...</p>
+  </div>
   <div id="STLViewer" style="height:50vh"></div>
   <script>
-	  var stl_viewer=new StlViewer(document.getElementById("STLViewer"), { models: [ {id:0, filename:"{{ model }}"} ] });
-  </script>
+    function loadedModel(model_id) {
+      //console.log("loadModel ", model_id);
+      document.getElementById("STLFileLoading").innerHTML = "";
+    }
+  
+	  var stl_viewer=new StlViewer(
+      document.getElementById("STLViewer"), 
+      { 
+        model_loaded_callback:loadedModel,
+        models: [ 
+          {id:0, filename:"{{ model }}"} 
+        ] 
+      }
+    );
+  </script> 
 </section>
 
