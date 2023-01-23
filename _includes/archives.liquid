@@ -3,16 +3,12 @@ layout: base.liquid
 templateClass: listing
 ---
 <section>
-  {%- for intro in collections.archivesintro limit:1 -%}
-	{{ intro.templateContent }}
-  {%- endfor -%}
+  {{ content }}
 </section>
 
-
-
-  {%- for archive in collections.archive -%}
+{%- for archive in collections.archive -%}
 <section>
 	{{ archive.templateContent }}
 </section>
-  {%- endfor -%}
+{%- endfor -%}
 

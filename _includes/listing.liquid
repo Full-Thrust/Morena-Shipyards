@@ -3,9 +3,7 @@ layout: base.liquid
 templateClass: listing
 ---
 <section>
-  {%- for intro in collections.listingintro limit:1 -%}
-	{{ intro.templateContent }}
-  {%- endfor -%}
+  {{ content }}
 </section>
 
 {%- for section in collections.listing -%}

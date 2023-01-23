@@ -3,10 +3,9 @@ layout: base.liquid
 templateClass: home
 ---
 <section>
-  {%- for intro in collections.homeintro limit:1 -%}
-	{{ intro.templateContent }}
-  {%- endfor -%}
+    {{ content }}
 </section>
+
 <section>
   {%- for intro in collections.hometoc limit:1 -%}
 	{{ intro.templateContent }}

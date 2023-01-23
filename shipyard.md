@@ -7,6 +7,8 @@ eleventyNavigation:
   key: Shipyard
   order: 3
 ---
+![STAR TREK The Role Playing Game](/images/STAR-TREK-RPG.svg){.halfWidth} {.gallery}
+
 # Shipyard
 Collection of 3d printable models of FASA and related ships, models can be viewed in 3d and printed on a suitable 3d printer.
  
