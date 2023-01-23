@@ -24,6 +24,7 @@
 	--font-size-small: 0.889rem;
 	--font-size-x-small: 0.75rem;
 	--font-size-default: var(--font-size);
+	--font-size-nav: var(--font-size-small);
 
 
 	--lineheight-text: 1.6;
@@ -98,6 +99,7 @@
 @media screen and (min-width: 480px) {
 	:root {
 		--font-size-default: var(--font-size-medium);
+		--font-size-nav: var(--font-size-medium)
 		--image-product: 50%;
 		--flex-meta: row;
 	}
@@ -208,6 +210,7 @@ nav .nav-list {
 
 nav .nav-item {
 	padding: 0.5rem 0.5rem;
+	font-size: var(--font-size-nav);
 }
 
 nav .nav-item-active a {
