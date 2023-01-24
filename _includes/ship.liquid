@@ -6,20 +6,21 @@ layout: base.liquid
 
 <!-- Display a ship  -->
 {% assign navPages = collections.all | eleventyNavigationBreadcrumb: "Ship" %}
-<a href="{{ navPages[0].url}}#{{id}}">Back to ships</a>
+<a href="{{ navPages[0].url}}#{{id}}">&laquo; Back to ships</a>
 <section>
   <h2>{{ title }}</h2>
-  <h3>Model by <span class="stock">{{ author }}</span></h3>
-  <h4>{{ source }}</h4>
+  
+  <p><a href="{{ download }}" target="_blank">Download model by {{ author }} &raquo;</a></p>
+  
+  <h3>{{ source }}</h3>
   {{ content }}
+  
   <div id="STLProgress">
     <p class="STLFileLoading" >Loading 3D Preview</p>
     <p class="spin" ></p>
   </div>
   <div id="STLViewer" style="height:50vh"></div>
-  <div class="download">
-    <a class="button" href="{{ download }}" target="_blank">Download</a>
-  </div>
+  
   <script>
     function loadedModel(model_id) {
       //console.log("loadModel ", model_id);

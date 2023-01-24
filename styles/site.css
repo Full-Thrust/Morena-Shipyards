@@ -159,6 +159,10 @@ main {
 	}
 }
 
+p {
+	margin-top: 0;
+}
+
 nav ul,
 footer ul {
 	display: flex;
@@ -218,7 +222,7 @@ nav .console {
 	justify-content: center;
 }
 
-.download {
+.downloadModel {
   margin: 1rem;
   display: flex;
   justify-content: center;
