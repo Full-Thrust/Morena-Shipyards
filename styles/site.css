@@ -443,7 +443,8 @@ a:link {
 	padding: 0;
 }
 
-.gallery {
+.gallery,
+.header {
 	display: flex;
 	justify-content: space-evenly;
 }

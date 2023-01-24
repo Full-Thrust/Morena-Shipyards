@@ -3,7 +3,7 @@ layout: base.liquid
 ---
 <!-- Display a listing product  -->
 {% assign navPages = collections.all | eleventyNavigationBreadcrumb: "Product" %}
-<a href="{{ navPages[0].url}}#{{stock}}">Back to listing</a>
+<a href="{{ navPages[0].url}}#{{stock}}">&laquo; Back to listing</a>
 <section>
   <h2>{{ title }}</h2>
   <div class="flexMeta">
