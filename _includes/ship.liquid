@@ -15,14 +15,15 @@ layout: base.liquid
     <p><a href="{{ download }}" target="_blank">Download</a></p>
   </div>
   {{ content }}
-  <div class="STLProgress">
-    <p id="STLFileLoading" >Loading 3D Preview ...</p>
+  <div id="STLProgress">
+    <p id="STLFileLoading" >Loading 3D Preview</p>
+    <p class="spin" ></p>
   </div>
   <div id="STLViewer" style="height:50vh"></div>
   <script>
     function loadedModel(model_id) {
       //console.log("loadModel ", model_id);
-      document.getElementById("STLFileLoading").innerHTML = "";
+      document.getElementById("STLProgress").innerHTML = "";
     }
   
 	  var stl_viewer=new StlViewer(

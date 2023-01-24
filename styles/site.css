@@ -552,4 +552,32 @@ figcaption::before {
 	text-align: center;
 }
 
+#STLProgress {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.spin {
+	display: inline-block;
+	width: 2rem;
+	height: 2rem;
+	border: 3px solid var(--color-text-default);
+	border-radius: 50%;
+	border-top-color: var(--lighter-blue);
+	animation: spin 1s ease-in-out infinite;
+	-webkit-animation: spin 1s ease-in-out infinite;
+  }
+  @keyframes spin {
+	to {
+	  -webkit-transform: rotate(360deg);
+	}
+  }
+  @-webkit-keyframes spin {
+	to {
+	  -webkit-transform: rotate(360deg);
+	}
+  }
+
 
