@@ -10,16 +10,16 @@ layout: base.liquid
 <section>
   <h2>{{ title }}</h2>
   <h3>Model by <span class="stock">{{ author }}</span></h3>
-  <div class="flexMeta">
-    <p>{{ source }}</p>
-    <p><a href="{{ download }}" target="_blank">Download</a></p>
-  </div>
+  <h4>{{ source }}</h4>
   {{ content }}
   <div id="STLProgress">
-    <p id="STLFileLoading" >Loading 3D Preview</p>
+    <p class="STLFileLoading" >Loading 3D Preview</p>
     <p class="spin" ></p>
   </div>
   <div id="STLViewer" style="height:50vh"></div>
+  <div class="download">
+    <a class="button" href="{{ download }}" target="_blank">Download</a>
+  </div>
   <script>
     function loadedModel(model_id) {
       //console.log("loadModel ", model_id);

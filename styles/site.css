@@ -93,6 +93,7 @@
 	
 	--image-product: 100%;
 	--flex-meta: column;
+	--flex-meta-margin: 1rem;
 }
 
 /* Set desktop values here */
@@ -102,6 +103,7 @@
 		--font-size-nav: var(--font-size-medium)
 		--image-product: 50%;
 		--flex-meta: row;
+		--flex-meta-margin: 0;
 	}
 }
 
@@ -214,6 +216,28 @@ nav .console {
 	flex-wrap: nowrap;
 	overflow: hidden;
 	justify-content: center;
+}
+
+.download {
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.button:hover {
+	color: var(--black);
+	background-color: var(--light-cyan);
+}
+
+.button {
+	display: block;
+	background-color: var(--mid-green);
+	padding: 0.6rem 0.6rem;
+	font-size: var(--font-size-x-small);
+	color: var(--black);
+	font-weight: var(--font-weight-heavy);
+	border-radius: 0.25rem;
+	font-family: var(--font-family-title);
 }
 
 nav .data {
@@ -545,9 +569,15 @@ figcaption::before {
 	display:flex;
 	flex-direction: var(--flex-meta);
 	justify-content: space-between;
+	align-items: center;
+	margin-bottom: var(--flex-meta-margin);
 }
 
-#STLFileLoading {
+.flexMeta h3 {
+	margin: 0;
+}
+
+.STLFileLoading {
 	color: var(--color-text-default);
 	text-align: center;
 }
