@@ -1,5 +1,5 @@
 ---
-title: KD-5 “K’t’orr” Heavy Destroyer
+title: KD-5 K’t’orr Heavy Destroyer
 id: ship-kd5
 author: Tycen Hopkins, Art Braune
 source: Geoffrey Mandel’s Starfleet Handbook, Volume 13

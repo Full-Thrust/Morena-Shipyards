@@ -1,5 +1,5 @@
 ---
-title: D-6 “Raxor” / K-6R “Hyill” (Romulan) / D-7 “Kolode” Battlecruiser
+title: D-6 Raxor / K-6R Hyill (Romulan) / D-7 Kolode Battlecruiser
 id: ship-d7-tos
 author: Tycen Hopkins, Art Braune
 source: Geoffrey Mandel’s Starfleet Handbook, Volume 13

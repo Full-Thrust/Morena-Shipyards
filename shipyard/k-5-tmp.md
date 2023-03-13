@@ -1,5 +1,5 @@
 ---
-title: K-5 “Dupat” Light Cruiser (TMP)
+title: K-5 Dupat Light Cruiser (TMP)
 id: ship-k5-tmp
 author: Tycen Hopkins, Art Braune
 source: Geoffrey Mandel’s Starfleet Handbook, Volume 13
