@@ -18,5 +18,17 @@ templateClass: listing
   </ul>
 </section>
 
+<section>
+  <h2>Federation</h2>
+  <ul>
+  {%- for ship in collections.ship-federation -%}
+
+	<li><a href="{{ship.url}}" name="{{ship.data.id}}">{{ ship.data.title }}</a></li>
+
+  {%- endfor -%}
+  </ul>
+</section>
+
+
  
 

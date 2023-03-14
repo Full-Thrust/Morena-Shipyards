@@ -119,6 +119,22 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("ship-klingon", function(collectionApi) {
     return collectionApi.getFilteredByTags("ship", "klingon");
   });
+  // Romulan ships
+  eleventyConfig.addCollection("ship-romulan", function(collectionApi) {
+    return collectionApi.getFilteredByTags("ship", "romulan");
+  });
+  // Federation ships
+  eleventyConfig.addCollection("ship-federation", function(collectionApi) {
+    return collectionApi.getFilteredByTags("ship", "federation");
+  });
+  // Civilian ships
+  eleventyConfig.addCollection("ship-civilian", function(collectionApi) {
+    return collectionApi.getFilteredByTags("ship", "civilian");
+  });
+  // Gorn ships
+  eleventyConfig.addCollection("ship-gorn", function(collectionApi) {
+    return collectionApi.getFilteredByTags("ship", "gorn");
+  });
 
 
   /* Markdown Overrides */
