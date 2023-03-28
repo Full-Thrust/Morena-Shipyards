@@ -1,5 +1,4 @@
 ---
-tags: archive
 title: Star Trek Campaigns
 domain:  www.18inchfly.net
 url: https://18inchfly.netlify.app/startrek/

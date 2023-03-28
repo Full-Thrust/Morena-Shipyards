@@ -1,5 +1,4 @@
 ---
-tags: news
 title: ST Pre-TOS Crossfield Class VII-IX Cruiser
 date: 2022-06-28
 ---

@@ -1,5 +1,4 @@
 ---
-tags: archive
 title: FASA Star Trek
 domain:  fasastartrek.com
 url: https://fasastartrek.netlify.app

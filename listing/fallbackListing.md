@@ -1,5 +1,5 @@
 ---
-tags: listingfallback
+eleventyExcludeFromCollections: true
 ---
 ![STAR TREK The Role Playing Game](/images/STAR-TREK-RPG.svg){.halfWidth} {.gallery}
 

@@ -1,5 +1,4 @@
 ---
-tags: archive
 title: Star Trek Military Operations
 domain:  www.geocities.com/tolson55
 url: https://tolson55.netlify.app

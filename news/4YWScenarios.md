@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Four Years War scenarios and more
 date: 2022-05-05
 ---

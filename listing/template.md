@@ -1,18 +1,5 @@
 ---
-title: 
-stock: 
-isbn: 
-cover: 
-layout: product.liquid
-tags: 
-  - listing
-  - game
-  - plan
-  - recognition
-  - supplement
-  - adventure
-  - playaid
-  - miniature-person
-  - miniature-ship
-  - boxset
+eleventyExcludeFromCollections: true
+date: 2022-04-17
 ---
+Order by date & eleventyExcludeFromCollections: true

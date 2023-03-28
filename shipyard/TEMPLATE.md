@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: 
 id: 
 author: Tycen Hopkins, Art Braune
@@ -16,4 +17,4 @@ eleventyNavigation:
   key: Ship
   parent: Shipyard
 ---
-Replace me
+Replace me & remove eleventyExcludeFromCollections

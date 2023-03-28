@@ -1,5 +1,4 @@
 ---
-tags: listing
 date: 2022-04-20
 ---
 ### 2300 Ship Recognition

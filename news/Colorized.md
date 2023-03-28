@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Colorized FASA Illustrations
 date: 2022-05-20
 ---

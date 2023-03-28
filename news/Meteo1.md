@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Meteo Archon Ship & Weapon Updates
 date: 2023-01-18
 ---

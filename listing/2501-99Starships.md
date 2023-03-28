@@ -1,5 +1,4 @@
 ---
-tags: listing
 date: 2022-04-22
 ---
 ### 2500 Starships

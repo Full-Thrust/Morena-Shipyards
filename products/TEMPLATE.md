@@ -1,11 +1,10 @@
 ---
+eleventyExcludeFromCollections: true
 title: 
 stock: 
 isbn: 
 cover: 
-layout: product.liquid
 tags: 
-  - listing
   - game
   - plan
   - recognition
@@ -16,3 +15,4 @@ tags:
   - miniature-ship
   - boxset
 ---
+Details and remove eleventyExcludeFromCollections

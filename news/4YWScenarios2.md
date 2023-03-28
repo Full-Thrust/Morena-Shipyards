@@ -1,5 +1,4 @@
 ---
-tags: news
 title: First Four Years War Scenario Published - Battle of Andromeda
 date: 2022-07-07
 ---

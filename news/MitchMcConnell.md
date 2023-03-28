@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Mitch O'Connell poster artist
 date: 2022-04-17
 ---

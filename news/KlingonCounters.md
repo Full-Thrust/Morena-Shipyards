@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Klingon Counters
 date: 2022-10-18
 ---

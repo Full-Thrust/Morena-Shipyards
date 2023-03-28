@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Federation Counters
 date: 2022-06-30
 ---

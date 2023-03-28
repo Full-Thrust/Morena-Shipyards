@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Meteo Updates
 date: 2022-06-13
 ---

@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Character Challenge
 date: 2023-01-15
 ---

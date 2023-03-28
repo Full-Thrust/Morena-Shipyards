@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Gorn, Orion and Merchant Counters
 date: 2022-10-19
 ---

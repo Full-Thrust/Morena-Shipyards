@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Database Updates
 date: 2022-06-25
 ---

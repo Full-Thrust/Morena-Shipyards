@@ -1,5 +1,4 @@
 ---
-tags: archive
 title: Battlestations
 domain:  www.dancingshaman.net
 url: https://dancingshaman.netlify.app/

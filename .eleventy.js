@@ -111,7 +111,9 @@ module.exports = function(eleventyConfig) {
   // PRODUCT
   // Game products
   eleventyConfig.addCollection("product-game", function(collectionApi) {
-    return collectionApi.getFilteredByTags("product", "game");
+    return collectionApi.getFilteredByTags("product", "game").sort(function(a, b) {
+      return a.data.stock - b.data.stock; // sort by stock# - ascending
+    });
   });
 
   // SHIPS

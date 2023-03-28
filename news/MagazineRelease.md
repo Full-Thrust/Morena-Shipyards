@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Stardate Magazine Cleanup
 date: 2022-05-05
 ---

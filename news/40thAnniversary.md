@@ -1,5 +1,4 @@
 ---
-tags: news
 title: FASA 40th Anniversary
 date: 2022-04-17
 ---

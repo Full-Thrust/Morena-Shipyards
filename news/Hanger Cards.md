@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Hanger Cards
 date: 2022-05-13
 ---

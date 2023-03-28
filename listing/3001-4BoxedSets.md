@@ -1,5 +1,4 @@
 ---
-tags: listing
 date: 2022-04-24
 ---
 ### 3000 Boxed Sets

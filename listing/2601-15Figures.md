@@ -1,5 +1,4 @@
 ---
-tags: listing
 date: 2022-04-23
 ---
 ### 2600 Figures

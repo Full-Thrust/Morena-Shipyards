@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Fleet Battles
 date: 2022-09-06
 ---
