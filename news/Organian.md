@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Organian Scenarios
 date: 2022-09-19
 ---

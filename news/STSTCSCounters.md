@@ -1,5 +1,4 @@
 ---
-tags: news
 title: STSTCS Counter Audit
 date: 2022-05-05
 ---

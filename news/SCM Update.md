@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Ship Construction Manual Update
 date: 2022-08-29
 ---

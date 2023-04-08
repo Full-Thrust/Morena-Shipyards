@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Roger Taylor
 date: 2022-12-22
 ---

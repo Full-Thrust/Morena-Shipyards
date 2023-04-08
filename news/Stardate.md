@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Stardate, Stardrive & Space Gamer
 date: 2023-01-12
 ---

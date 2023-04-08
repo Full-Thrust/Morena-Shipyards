@@ -1,5 +1,4 @@
 ---
-tags: news
 title: White Flame Scenario Added
 date: 2022-09-29
 ---

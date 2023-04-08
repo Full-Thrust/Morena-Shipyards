@@ -1,5 +1,4 @@
 ---
-tags: news
 title: New Shipyard
 date: 2023-01-16
 ---

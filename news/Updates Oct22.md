@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Ship Updates
 date: 2022-10-06
 ---

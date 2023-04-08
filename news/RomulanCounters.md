@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Romulan Counters
 date: 2022-08-09
 ---

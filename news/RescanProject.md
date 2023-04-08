@@ -1,5 +1,4 @@
 ---
-tags: news
 title: FASA Rescan Project
 date: 2022-04-19
 ---

@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Transporter malfunction
 date: 2022-04-21
 ---

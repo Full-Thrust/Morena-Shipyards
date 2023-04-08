@@ -1,5 +1,4 @@
 ---
-tags: news
 title: Polyhedron Magazine Issue 21
 date: 2022-08-04
 ---
