@@ -19,6 +19,7 @@ Primarily on starship design & combat:
 - [Construction for **FASA's** Starship Tactical Combat Simulator](https://sites.google.com/site/tngfasa/) Meteo's ship constructions {.active}
 - [Tardis Captain's homebrewed stats for starships](http://tardiscaptain.com/2022/02/20/homebrewed-stats-for-starships-final/) a mega scan of their ship design folio {.active}
 - [The Starship Files](https://starshipfiles.wordpress.com/) ship design & battle reports blog {.active}
+- [Frylock's Command & Control Panels](https://gsllcblog.com/fasa-star-trek-rpg-resources/) redone C&C panels {.active}
 
 Inactive sites, these have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
 
