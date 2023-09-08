@@ -222,6 +222,23 @@ nav .console {
 	justify-content: center;
 }
 
+.centre {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.newsHeadline {
+	display:flex;
+	flex-direction: row;
+}
+
+.newsHeadline figure {
+	margin: 0 0 0 1rem;
+	width: 100%;
+}
+
+
 .downloadModel {
   margin: 1rem;
   display: flex;

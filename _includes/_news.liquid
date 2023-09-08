@@ -7,7 +7,9 @@
 	  <div class="newsSummary">
 	    <span class="newsDate">{{ news.date | date: "%a, %b %d" }}</span>
 	    <span class="newsTitle">{{ news.data.title }}</span>
-	    {{ news.templateContent }}
+		<div class="newsHeadline">
+		  {{ news.templateContent }}
+		</div>
       </div>
 	{%- endfor -%}
 	</div>
