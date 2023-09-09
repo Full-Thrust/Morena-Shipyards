@@ -235,6 +235,10 @@ nav .console {
 
 .newsHeadline figure {
 	margin: 0 0 0 1rem;
+	width: 25%;
+}
+
+.newsHeadline p {
 	width: 100%;
 }
 
@@ -479,8 +483,12 @@ img.gallery,
 	height: 50vh;
 }
 
+.newsSummary {
+	margin: 0 0 1rem 0;
+}
+
 .newsSummary p {
-	margin: 0 0 1rem 1rem;
+	margin: 0 0 0 1rem;
 }
 
 .newsTitle {
