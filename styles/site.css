@@ -123,6 +123,18 @@ html {
 	-webkit-text-size-adjust: 100%;
 }
 
+/* Style the video: 100% width and height to cover the entire window */
+#StarfieldVideo {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -10;
+}
+
+
 body {
 	margin: auto;
 	/* padding: 0 2rem; */

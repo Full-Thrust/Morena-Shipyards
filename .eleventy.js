@@ -36,6 +36,7 @@ module.exports = function(eleventyConfig) {
   // Custom code
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
   eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("videos");
   eleventyConfig.addPassthroughCopy("styles");
   eleventyConfig.addPassthroughCopy("code");
   eleventyConfig.addPassthroughCopy("favicon.png");
