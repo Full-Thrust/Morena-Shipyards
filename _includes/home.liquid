@@ -2,10 +2,11 @@
 layout: base.liquid
 templateClass: home
 ---
+
 <!-- The video -->
-<video autoplay muted loop id="StarfieldVideo">
-  <source src="/videos/Starfield0.6x.mp4" type="video/mp4">
-</video>
+<canvas id="StarfieldVideo"></canvas>
+<script src="code/starfield-scroller.js"></script>
+
 
 <section>
     {{ content }}
