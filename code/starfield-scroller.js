@@ -4,18 +4,6 @@ canvas.width = window.innerWidth; //screen width
 canvas.height = window.innerHeight; //screem height
 
 
-//on mouse scroll changes speed and color
-/*
-window.addEventListener('wheel', (event) => {
-  c.strokeStyle = 'rgb('+Math.random()*255+', '+Math.random()*255+', '+Math.random()*255+')';
-  if (event.deltaY < 0) speed *= 1.1;
-  else speed *= 0.9;
-  if (speed < 0.01) speed = 0.01;
-  else if (speed > 0.1) speed = 0.1;
-  
-});
-*/
-
 class Star {
   constructor() {
     //initializing
@@ -79,8 +67,7 @@ let speed = 0.005;
 let stars = [];
 
 
-
-//create 1500 stars (objects)
+//create stars (objects)
 for (let i = 0; i < 200; i++) stars.push(new Star());
 
 c.fillStyle = 'rgba(0, 0, 0, 0.1)';
