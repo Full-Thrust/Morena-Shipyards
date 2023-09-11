@@ -26,12 +26,12 @@ class Star {
     this.z += speed;
     this.x += this.x*(speed*0.2)*this.z;
     this.y += this.y*(speed*0.2)*this.z;
-	this.generation = this.generation + 1;
-	this.pulse = this.pulse + 1;
+	this.generation += 1;
+	this.pulse += 1;
 	if ( this.generation > 700 ) {
 		if (this.pulse > 2) {
 			this.pulse = 0;
-			this.nextColor = this.nextColor + 1;
+			this.nextColor += 1;
 			if (this.nextColor > this.maxColor) {
 				this.nextColor = 0;
 			}
