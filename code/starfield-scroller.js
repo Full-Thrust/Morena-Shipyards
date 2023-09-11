@@ -54,7 +54,7 @@ class Star {
   
   //draws line from x,y to px,py
   show() {  
-    c.lineWidth = this.z;
+    c.lineWidth = this.z / 1.5;
     c.beginPath();
     c.moveTo(this.x, this.y);
     c.lineTo(this.px, this.py);
