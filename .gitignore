@@ -4,3 +4,5 @@ node_modules/
 package-lock.json
 *.afdesign
 *.afphoto
+node_modules
+image-src
