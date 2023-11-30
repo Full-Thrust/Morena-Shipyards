@@ -1,5 +1,5 @@
 ---
-title: Star Trek: Starship Tactical Combat Simulator
+title: Star Trek Starship Tactical Combat Simulator
 domain:  www.slightlysilly.net/ststcs
 url: https://sillyststcs.netlify.app//
 date: 2023-11-27
