@@ -1,0 +1,15 @@
+--- 
+layout: base.liquid 
+---
+{% assign navPages = collections.all | eleventyNavigationBreadcrumb: "Ship" %}
+<a href="{{ navPages[0].url}}#{{id}}">&laquo; Back to ships</a>
+<section>
+<h2>{{ title }}</h2>
+<div class="sketchfab-embed-wrapper">
+  <iframe style="width:100%;height:740px;" title="FASA Klingon D2" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/{{ model }}/embed?preload=1&transparent=1&autostart=1">
+  </iframe>
+  <p>
+    Model by {{ author }}
+  </p>
+</div>
+</section>
