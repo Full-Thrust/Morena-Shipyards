@@ -9,7 +9,7 @@ tags:
 ---
 ![FASA Products](/images/FASA-RPG.webp "Selection of FASA Star Trek the Role Playing Game products" ){.gallery} 
 
-Primarily on FASA role playing system:
+### FASA Role Playing System
 
 - [UFC465537 Guardian of Forever: **FASA** Star Trek](https://ufc465537.neocities.org/) Star Trek: The Role Playing Game campaign archive, **FASA** game mechanics material and many Support Files. Includes XON Gaming - **FASA** Star Trek Starship Combat and RPG Support Hosted Pages and Files.{ .active }
 - [Xon Hosted Pages](https://ufc465537.neocities.org/resources-index.html#xonpgs) subsite within *UFC465537* the most comprehensive breakdown of the **FASA** Star Trek RPG system. Includes a listing of all **FASA** STAR TREK the Role Playing Game products, ads and magazine article citings. { .active }
@@ -32,7 +32,9 @@ Primarily on FASA role playing system:
 - [Stardate Magazine](http://www.waynesbooks.com/Stardate.html) listing of issues {.active}
 - [Triangle Map](https://fulltrek.net/) very high quality SVG map of the Triangle {.active}
 
-Inactive sites, these have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
+### Inactive Sites
+
+These have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
 
 - [Idahobeef](http://idahobeef.yolasite.com/) *Trek I am writing* section has some very well produced **FASA** trek adventures, settings, races and characters.{ .inactive }
 - [Star Trek The Role Playing Game](http://www.karridian.net/startrek.html) logs and background from a campaign run in the 90s, nice read. {.inactive}
@@ -61,14 +63,15 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 
 ### FASA Game Materials
 
-Archives of out of print game materials for download as digital backups for those that own the physical original source:
+Archives of out of print game materials, only for download as digital backups for those that own the physical original source:
 
 - [JT **FASA** Library](https://rebrand.ly/FASALibrary) most extensive collection, there is a search facility from this [listing in upload order](https://rebrand.ly/FASASearch), slow download { .active }
 - [Trove **FASA** Library Archive](https://rebrand.ly/FASAT) pretty much everything **FASA** Star Trek the Role Playing Game, in one go, fast download { .active }
 - [Mediafire **FASA** Library](https://rebrand.ly/FASAStarTrek) &mdash; [**FASA** Fan Material](https://rebrand.ly/FASAFans) &mdash; [**FASA** Magazines](https://rebrand.ly/FASAMags) large collection tedious Mediafire download manager { .active }
 - [Eye **FASA** Library](https://rebrand.ly/FASABooks) only a subset of materials, slow download { .active }
 - [Instant Star Trek Technical Archive](https://rebrand.ly/StarTrekTechnical) was a torrent, now access without waiting for seeders, covers FASA, LUG, Jackill's, Jaynz loads of stuff. {.active}
-- [Internet Archive **FASA** Library](https://ia804601.us.archive.org/view_archive.php?archive=/21/items/rpg.rem.uz/Star_Trek_FASA.tar) slow download of the now offline rpg.re.uz archive. {.active}
+- [Internet Archive **FASA** Library &ndash; *wayback*](https://ia804601.us.archive.org/view_archive.php?archive=/21/items/rpg.rem.uz/Star_Trek_FASA.tar) slow download of the now offline rpg.re.uz archive. {.active}
+- [Cygnus X1](https://www.cygnus-x1.net/links/lcars/lcars-FAS.php) there are actual digital backups too. { .active }
 
 ### Remote Play & Playaids
 

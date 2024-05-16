@@ -9,7 +9,7 @@ tags:
 ---
 ![FASA Products](/images/FASA-STSTCS.webp "Versions of the STSTCS game"){.gallery} 
 
-Primarily on starship design & combat:
+### Starship Design & Combat
 
 - [**FASA** Star Trek Starship Tactical Combat Simulator](http://fasaststcs.com/) materials & supplements for **FASA's** Classic Star Trek Starship Combat Game{ .active }
 - [Star Trek Starship Tactical Combat Simulator On-Line Database & Archive](https://www.ststcsolda.space/) this site started out in 1999 as a humble collection of crude scans and .html pages, but since then it has grown into one of the premiere sites on the Web dedicated to the old **FASA** Star Trek Starship Tactical Combat Simulator. { .active }
@@ -21,7 +21,9 @@ Primarily on starship design & combat:
 - [The Starship Files](https://starshipfiles.wordpress.com/) ship design & battle reports blog {.active}
 - [Frylock's Command & Control Panels](https://gsllcblog.com/fasa-star-trek-rpg-resources/) redone C&C panels {.active}
 
-Inactive sites, these have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
+### Inactive sites
+
+These have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
 
 - [Vintage Starships II](https://vintagestarships.wordpress.com/) early ship designs the glory years.{ .inactive }
 - [Vintage Starships I](https://vintagestarships.tripod.com/mainpages/vintagestarships.htm) old version for historical interest {.inactive}
@@ -31,8 +33,8 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Unofficial Star Trek Starship Combat Game &ndash; *wayback*](https://web.archive.org/web/19991110185604id_/https://www.customcpu.com/personal/colley/index.html)  {.inactive}
 - [Starfleet Battles](https://johnmsteele.com/wp-content/uploads/2013/06/SFBattles/sfbttls.html) John Steele's ship designs across several races and counter scans for the game {.active}
 - [Rokuratei](https://sites.google.com/site/newmeteoarchon/home) Some archived eccentricities, and a few hundred new ships, plus optional house rules and systems. Site is hard to use, also [Memory Eta](https://sites.google.com/site/memoryeta) has some content. {.inactive}
-- [USS Hastings](https://tolson55.netlify.app/hastings.htm) Archived optional rules and use of the game for the fictional USS Hastings
-- [FASA Nacelles](https://web.archive.org/web/20210126201741id_/http://userpages.bright.net/~jackbohn/sf/fasanac.htm) comparison of nacelle sizes for FASA ships. {.inactive}
+- [USS Hastings](https://tolson55.netlify.app/hastings.htm) Archived optional rules and use of the game for the fictional USS Hastings. {.inactive}
+- [FASA Nacelles &ndash; *wayback*](https://web.archive.org/web/20210126201741id_/http://userpages.bright.net/~jackbohn/sf/fasanac.htm) comparison of nacelle sizes for FASA ships. {.inactive}
 
 ### Schematics 
 
@@ -43,7 +45,6 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Cygnux X1 &mdash; Star Trek Blue Print Database](https://www.cygnus-x1.net/links/lcars/blueprints-main2.php) 10,000 Star Trek blueprints {.active}
 - [Trebuche Starships](https://trebuchestarships.blogspot.com/) blueprints and parts {.active}
 - [Star Trek Escape Committee](https://trek.escape-committee.co.uk/) full set of ship reference manuals {.active}
-
 
 ### Games & Remote Play
 
@@ -67,7 +68,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Tycen Hopkins **FASA** Ship Kits](https://drive.google.com/drive/folders/1W5B4TEpE54ax9C5oGcD6SvcOxbK5TIcj) large library of printable STL files for a large number of **FASA** ships and variants. {.active}
 - [B3 designs](https://www.b-3designs.com/) custom made **FASA** designs {.active}
 - [Modular Models](http://www.modular-models.com/) modular resin Star Trek kits {.active}
-- [MicroMachines Scales](https://web.archive.org/web/20190111023718id_/http://userpages.bright.net/~jackbohn/sf/micromac.htm) for the MicroMachine Star Trek models. {.inactive}
+- [MicroMachines Scales &ndash; *wayback*](https://web.archive.org/web/20190111023718id_/http://userpages.bright.net/~jackbohn/sf/micromac.htm) for the MicroMachine Star Trek models. {.inactive}
 
 ### Videos
 
