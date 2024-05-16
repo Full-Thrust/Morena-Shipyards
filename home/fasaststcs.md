@@ -32,6 +32,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Starfleet Battles](https://johnmsteele.com/wp-content/uploads/2013/06/SFBattles/sfbttls.html) John Steele's ship designs across several races and counter scans for the game {.active}
 - [Rokuratei](https://sites.google.com/site/newmeteoarchon/home) Some archived eccentricities, and a few hundred new ships, plus optional house rules and systems. Site is hard to use, also [Memory Eta](https://sites.google.com/site/memoryeta) has some content. {.inactive}
 - [USS Hastings](https://tolson55.netlify.app/hastings.htm) Archived optional rules and use of the game for the fictional USS Hastings
+- [FASA Nacelles](https://web.archive.org/web/20210126201741id_/http://userpages.bright.net/~jackbohn/sf/fasanac.htm) comparison of nacelle sizes for FASA ships. {.inactive}
 
 ### Schematics 
 
@@ -66,6 +67,7 @@ Inactive sites, these have one or two articles or are now dormant, Those marked 
 - [Tycen Hopkins **FASA** Ship Kits](https://drive.google.com/drive/folders/1W5B4TEpE54ax9C5oGcD6SvcOxbK5TIcj) large library of printable STL files for a large number of **FASA** ships and variants. {.active}
 - [B3 designs](https://www.b-3designs.com/) custom made **FASA** designs {.active}
 - [Modular Models](http://www.modular-models.com/) modular resin Star Trek kits {.active}
+- [MicroMachines Scales](https://web.archive.org/web/20190111023718id_/http://userpages.bright.net/~jackbohn/sf/micromac.htm) for the MicroMachine Star Trek models. {.inactive}
 
 ### Videos
 
