@@ -5,7 +5,7 @@
     {% assign newsItems = collections.news | reverse %}
 	{%- for news in newsItems limit:10 -%}
 	  <div class="newsSummary">
-	    <span class="newsDate">{{ news.date | date: "%a, %b %d" }}</span>
+	    <span class="newsDate">{{ news.date | date: "%a, %b %d %Y" }}</span>
 	    <span class="newsTitle">{{ news.data.title }}</span>
 		<div class="newsHeadline">
 		  {{ news.templateContent }}
