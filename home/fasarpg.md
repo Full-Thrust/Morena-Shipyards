@@ -69,10 +69,16 @@ Archives of out of print game materials, only for download as digital backups fo
 - [JT **FASA** Library](https://rebrand.ly/FASALibrary) most extensive collection, there is a search facility from this [listing in upload order](https://rebrand.ly/FASASearch), slow download { .active }
 - [Trove **FASA** Library Archive](https://rebrand.ly/FASAT) pretty much everything **FASA** Star Trek the Role Playing Game, in one go, fast download { .active }
 - [Mediafire **FASA** Library](https://rebrand.ly/FASAStarTrek) &mdash; [**FASA** Fan Material](https://rebrand.ly/FASAFans) &mdash; [**FASA** Magazines](https://rebrand.ly/FASAMags) large collection tedious Mediafire download manager { .active }
+- [Magazine Articles for FASA Star Trek](https://www.mediafire.com/folder/f260mbswqwwl9) { .active }
 - [Eye **FASA** Library](https://rebrand.ly/FASABooks) only a subset of materials, slow download { .active }
 - [Instant Star Trek Technical Archive](https://rebrand.ly/StarTrekTechnical) was a torrent, now access without waiting for seeders, covers FASA, LUG, Jackill's, Jaynz loads of stuff. {.active}
 - [Internet Archive **FASA** Library &ndash; *wayback*](https://ia804601.us.archive.org/view_archive.php?archive=/21/items/rpg.rem.uz/Star_Trek_FASA.tar) slow download of the now offline rpg.re.uz archive. {.active}
 - [Cygnus X1](https://www.cygnus-x1.net/links/lcars/lcars-FAS.php) there are actual digital backups too. { .active }
+- [FASA Archive](https://archive.org/details/fantasimulations-associates-star-trek-fasa_202209/) contains small footprint PDFs with OCR text { .active }
+- [Stardrive Magazine](https://mega.nz/folder/ciByWBJA#2ACULEIUYga-1iRYqyIvNg) { .active }
+- [Adventure supplements](https://www.mediafire.com/folder/cwn8tbt2qm5t4/) { .active }
+- [Original FASA Star Trek Games](https://www.mediafire.com/folder/dfdc70766srap/) { .active }
+- [Star Trek Manuals](https://www.mediafire.com/folder/aq1d3df1e42wg/) { .active }
 
 ### Remote Play & Playaids
 
