@@ -6,3 +6,5 @@ package-lock.json
 *.afphoto
 node_modules
 image-src
+**/.DS_Store
+
