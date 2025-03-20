@@ -2,7 +2,7 @@
 title: 'Star Trek: The Role Playing Page'
 domain:  www.ziplink.net/~stack/fasatrek
 url: https://fasast.netlify.app/stack/fasatrek/index.html 
-date: 2022-11-05
+date: 2025-03-20
 ---
 ## [{{ title }}]({{url}}){target="_blank"}
 [{{ domain }}]({{url}}){target="_blank"}
