@@ -7,4 +7,5 @@ package-lock.json
 node_modules
 image-src
 **/.DS_Store
+.DS_Store
 
