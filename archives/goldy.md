@@ -1,5 +1,5 @@
 ---
-title: SS Goldigger
+title: SS Gold Digger
 domain:  www.geocities.com/Area51/Dunes/8426/goldy
 url: https://fasast.netlify.app/goldy/
 date: 2025-04-07
