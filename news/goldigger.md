@@ -1,6 +1,6 @@
 ---
 title: SS Gold Digger site archive
-date: 2025-01-23
+date: 2025-04-07
 ---
 ![Harry](/images/harry.jpg)
 
