@@ -1,5 +1,5 @@
 ---
-title: SS Gold Digger
+title: Blademaster - Star Trek RPG
 domain:  http://www.geocities.com/blademaster01757/startrek.html
 url: https://fasast.netlify.app/blademaster/startrek.html
 date: 2025-04-29
