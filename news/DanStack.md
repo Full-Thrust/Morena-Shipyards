@@ -1,5 +1,5 @@
 ---
-title: 'Dan Stacks Star Trek: The Role Playing Page archived'
+title: 'Dan Stack (1999) - Star Trek: The Role Playing Page archived'
 date: 2025-03-20
 ---
 ![Dan Stack ](/images/danstack.png)

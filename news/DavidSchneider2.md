@@ -1,5 +1,5 @@
 ---
-title: 'David Schneider FASATrek: archived 2004'
+title: 'David Schneider (2004) - FASATREK archived'
 date: 2025-05-23
 ---
 ![FASATrek](/images/fasatrek.png)

@@ -1,5 +1,5 @@
 ---
-title: 'Dan Stack (2001) - Star Trek: The Role Playing Page'
+title: 'Dan Stack (2001) - Star Trek: The Role Playing Page archived'
 domain:  www.ziplink.net/~stack/fasatrek
 url: https://fasast.netlify.app/stack2/fasa_trek.html
 date: 2025-03-20
