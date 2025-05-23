@@ -1,5 +1,5 @@
 ---
-title: David Schneider - FASA Star Trek RPG (2004)
+title: David Schneider (2004) - FASATREK
 domain:  http://www.davidschenider.us/fasatrek
 url: https://fasast.netlify.app/fasatrek2/html/fasaindex.htm
 url2: https://fasast.netlify.app/fasatrek2/fasagfx/fasapage.html

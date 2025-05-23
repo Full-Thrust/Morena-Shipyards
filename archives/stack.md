@@ -1,5 +1,5 @@
 ---
-title: 'Star Trek: The Role Playing Page (1999)' 
+title: 'Dan Stack (1999) - Star Trek: The Role Playing Page' 
 domain:  www.ziplink.net/~stack/fasatrek
 url: https://fasast.netlify.app/stack/fasatrek/index.html 
 date: 2025-03-20
