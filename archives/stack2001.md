@@ -1,5 +1,5 @@
 ---
-title: 'Star Trek: The Role Playing Page' (2001)
+title: 'Star Trek: The Role Playing Page (2001)'
 domain:  www.ziplink.net/~stack/fasatrek
 url: https://fasast.netlify.app/stack2/fasa_trek.html
 date: 2025-05-23
