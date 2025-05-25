@@ -7,5 +7,5 @@ date: 2025-03-20
 ## [{{ title }}]({{url}}){target="_blank"}
 [{{ domain }}]({{url}}){target="_blank"}
 
-Dan Stacks Star Trek The Role Playing game resources April 8, 1999. Contains archived material from the the FASA Trek mailing list, campaign backgrounds and ship designs.
+Dan Stacks Star Trek The Role Playing game resources April 8, 1999. Contains archived material from the the FASA Trek mailing list, campaign backgrounds and ship designs. The author menitons the site [in this blog post](https://rollingboxcars.com/2022/07/14/looking-back-at-fasas-star-trek/)
 
