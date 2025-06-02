@@ -2,6 +2,8 @@
 title: Jack Photon material updates 
 date: 2025-06-01
 ---
+![Catain Photon 404](/images/PhotonJune.webp)
+
 [Errata for my Book 1: Lifeform Readings Character Generation rule book](https://archive.org/details/b-01-errata-250601)
 Includes 120new professions for citizens; revised Medals tables in a couple cases; and scattered annotations, revisions and clarifications throughout.  All this will be packaged into the eventual Book1.1 re-release, but is here until such time as
  
