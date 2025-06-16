@@ -4,4 +4,4 @@ date: 2025-06-16
 ---
 ![FASA Star Trek Character Builder](/images/character-gen.webp)
 
-[Frylocks's](https://gsllcblog.com/author/gsllc/) new [FASA Star Trek Character Builderapp](https://gsllcblog.com/2025/06/12/hereigoagainfasastartrekcharacterbuilder/) code should be on Github soon 
+[Frylocks's](https://gsllcblog.com/author/gsllc/) new [FASA Star Trek Character Builder](https://gsllcblog.com/2025/06/12/hereigoagainfasastartrekcharacterbuilder/) app code should be on Github soon according to the author
