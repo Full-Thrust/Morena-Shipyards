@@ -39,6 +39,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("videos");
   eleventyConfig.addPassthroughCopy("styles");
   eleventyConfig.addPassthroughCopy("code");
+  eleventyConfig.addPassthroughCopy("files");
   eleventyConfig.addPassthroughCopy("favicon.png");
   eleventyConfig.addPassthroughCopy("robots.txt");
 

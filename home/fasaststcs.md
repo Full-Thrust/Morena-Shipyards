@@ -21,6 +21,7 @@ tags:
 - [Tardis Captain's homebrewed stats for starships](http://tardiscaptain.com/2022/02/20/homebrewed-stats-for-starships-final/) a mega scan of their ship design folio {.active}
 - [The Starship Files](https://starshipfiles.wordpress.com/) ship design & battle reports blog {.active}
 - [Frylock's Command & Control Panels](https://gsllcblog.com/fasa-star-trek-rpg-resources/) redone C&C panels {.active}
+- [FASA Master Control Book](/files/FASA-Master-Control-Book.pdf) for 2003A rescan, Dean, T. Pangelinan {.active}
 
 ### Inactive sites
 
