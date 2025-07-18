@@ -13,7 +13,7 @@ tags:
 
 - [UFC465537 Guardian of Forever: **FASA** Star Trek](https://ufc465537.neocities.org/) Star Trek: The Role Playing Game campaign archive, **FASA** game mechanics material and many Support Files. Includes XON Gaming - **FASA** Star Trek Starship Combat and RPG Support Hosted Pages and Files.{ .active }
 - [Xon Hosted Pages](https://ufc465537.neocities.org/resources-index.html#xonpgs) subsite within *UFC465537* the most comprehensive breakdown of the **FASA** Star Trek RPG system. Includes a listing of all **FASA** STAR TREK the Role Playing Game products, ads and magazine article citings. { .active }
-- [Jeffery Coopers role playing materials](https://drive.google.com/drive/folders/1hd5thBLW5olPOr-nECZ4Y4zkOSU6XdEQ) lots of useful materials for running games. {.active}
+- [Jeffery Cooper's role playing materials](https://drive.google.com/drive/folders/1hd5thBLW5olPOr-nECZ4Y4zkOSU6XdEQ) lots of useful materials for running games. {.active}
 - [Xon FASA links index](https://ufc465537.neocities.org/links-index) the comprehensive listing of FASA sites & resources { .active }
 - [JT-SW **FASA** Trek](http://www.jt-sw.com/ststcs/) Ship construction generator and library. { .active }
 - [Jack Photon's STTRPG 3rd Edition Framework House Rules](http://www.jackphoton.space/) a tear-down, rebuild and mind-melding of 1st and 2nd edition STTRPG skewed 1st edition and focused on TOS/TAS. If I knew enough about Phase II, I'd have included that as it is more TOS than TMP. Supplements include Character Sheets, GM Screens at present and theoretically more to come as I go through and *de-Wheeler* the system. NO efforts towards Starship combat other than what is in 1st edition supplemented by Stardate articles, tables, etc. Loads of new material and alternate House Rules. { .active }
@@ -22,7 +22,7 @@ tags:
 - [Groknard - A Retrospective of Star Trek RPGs](http://groknard.blogspot.com/) excellent discussion of all known Star Trek roleplaying games. { .active }
 - [Sitzkrieg - Star Trek posts](http://sitzkrieg.blogspot.com/search/label/Star%20Trek) wargaming blog lots of very useful info including [how to get the STSTCS PC game to work.](http://sitzkrieg.blogspot.com/2018/10/gaming-like-its-1989-installing-fasa.html) { .active }
 - [David Deitrick](https://davidr3deitrick.wordpress.com/category/star-trek/) **FASA** artist extraordinaire. { .active }
-- [Frylock's Geekery - **FASA** Star Trek RPG Resources](https://gsllcblog.com/fasa-star-trek-rpg-resources/) active blog with some great **FASA** RPG tools for free. { .active }
+- [Frylock's Geekery - **FASA** Star Trek RPG Resources](https://gsllcblog.com/fasa-star-trek-rpg-resources/) active blog with some great **FASA** RPG tools for free. [Github repo](https://github.com/Frylock1968/FASAStarTrekRPG) { .active }
 - [Rob Bocchino's **FASA** STAR TREK site](https://rob-bocchino.net/FASA_Star_Trek/Home.html) playing the game using [Gametable](https://sourceforge.net/projects/gameniantabele/) and modified second edition. {.active}
 - [USS Arkansas States Class](http://uss-arkansas-states-class.yolasite.com/) fictional ship background and ship designs. {.active}
 - [Adventure Gaming in th Star Trek Universe](http://www.coldnorth.com/owen/game/startrekuniverse.htm) loads of high quality stuff here campaign, plans other systems {.active}
