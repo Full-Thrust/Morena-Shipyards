@@ -1,5 +1,5 @@
 ---
-title: 'John M Steele (29025) - Starfleet Battles Page archived'
+title: 'John M Steele (2025) - Starfleet Battles Page archived'
 date: 2025-09-05
 ---
 ![John M Steele ](/images/johnmsteele.png)
