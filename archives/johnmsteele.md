@@ -1,7 +1,7 @@
 ---
-title: John Steele (2025) - Starfleet Battles
+title: John M Steele (2025) - Starfleet Battles
 domain:  www.johnmsteele.com
-url: https://fasast.netlify.app/johnsteele/SFBattles/sfbttls.html
+url: https://fasast.netlify.app/johnmsteele/SFBattles/sfbttls.html
 date: 2025-09-04
 ---
 ## [{{ title }}]({{url}}){target="_blank"}
