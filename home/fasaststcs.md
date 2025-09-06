@@ -1,8 +1,8 @@
 ---
 title: FASA Star Trek Starship Tactical Combat Simulator
 anchor: fasaststcs
-sectionid: section6
-date: 2022-04-06
+sectionid: section2
+date: 2022-04-02
 tags: 
   - homesection
   - fasaststcs
