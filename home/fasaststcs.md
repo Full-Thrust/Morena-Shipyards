@@ -11,7 +11,7 @@ tags:
 
 ### Starship Design & Combat
 
-- [**FASA** 2003D STSTCS Digital Edition](https://ststcs.netlify.app) online digital game manual of 2003A version of STSTCS {.active}
+- [**FASA** 2003D STSTCS Digital Edition](https://ststcs.netlify.app) online digital game manual of 2003A version of STSTCS [link to password](https://thefasastartrekuniversee-group.groups.io/g/MorenaShipyards/table?id=25057) {.active}
 - [**FASA** Star Trek Starship Tactical Combat Simulator](http://fasaststcs.com/) materials & supplements for **FASA's** Classic Star Trek Starship Combat Game{ .active }
 - [Star Trek Starship Tactical Combat Simulator On-Line Database & Archive](https://www.ststcsolda.space/) this site started out in 1999 as a humble collection of crude scans and .html pages, but since then it has grown into one of the premiere sites on the Web dedicated to the old **FASA** Star Trek Starship Tactical Combat Simulator. { .active }
 - [The Ubergeeky Starship List: **FASA**](http://www.angelfire.com/scifi/FirstofTwo/shiplist5.html) First of Two's amazing compilation of **FASA** starships. Browse the site for even more starship lists from other sources! { .active }
