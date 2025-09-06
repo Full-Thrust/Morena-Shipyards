@@ -1,5 +1,5 @@
 ---
-title: John M Steele (2025) - Starfleet Battles
+title: John M Steele (2004) - Starfleet Battles
 domain:  www.johnmsteele.com
 url: https://fasast.netlify.app/johnmsteele/SFBattles/sfbttls.html
 date: 2025-09-04
