@@ -80,7 +80,7 @@ Archives of out of print game materials, only for download as digital backups fo
 - [Original FASA Star Trek Games](https://www.mediafire.com/folder/dfdc70766srap/) { .active }
 - [Star Trek Manuals](https://www.mediafire.com/folder/aq1d3df1e42wg/) { .active }
 - [Eye **FASA** Library &ndash; *wayback*](https://web.archive.org/web/20250803180510/https://the-eye.eu/public/Books/rpg.rem.uz/Star%20Trek%20(FASA)/) only a subset of materials, slow download now offline the-eye.eu archive { .inactive }
-- [Internet Archive **FASA** Library &ndash; *wayback*](https://ia804601.us.archive.org/view_archive.php?archive=/21/items/rpg.rem.uz/Star_Trek_FASA.tar) slow download of the now offline rpg.re.uz archive. {.inactive}
+- [Internet Archive **FASA** Library &ndash; *wayback*](https://archive.org/download/rpg.rem.uz/Star_Trek_FASA.tar) slow download of the now offline rpg.re.uz archive. {.inactive}
 
 
 ### Remote Play & Playaids
