@@ -7,5 +7,5 @@ date: 2025-12-21
 ## [{{ title }}]({{url}}){target="_blank"}
 [{{ domain }}]({{url}}){target="_blank"}
 
-Converted by Xon from James Bowling 2013 scenario site, useful scenarios for STSTCS and some nive forms downloads fot master control panels
+Converted by Xon from James Bowling 2013 scenario site, useful scenarios for STSTCS and some nice PDF form downloads for master control panels
 
