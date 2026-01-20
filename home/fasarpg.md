@@ -38,6 +38,8 @@ These are links to sites or specific articles related to the Star Trek RPG syste
 - [A Doomsday Like Any Other **upgrade**](http://www.coldnorth.com/owen/game/miscellaney/doomsday/doomsday.htm) upgraded adventure module  {.active}
 - [Stardate Magazine](http://www.waynesbooks.com/Stardate.html) listing of issues {.active}
 - [Triangle Map](https://fulltrek.net/) very high quality SVG map of the Triangle {.active}
+- [Continuing Missions](https://continuingmissionsta.com/species-index/starship-index) links to tools and materials for FASA to Star Trek Adventurers conversion {.active}
+- [FASA Star Trek RPG Federation Classes - The Fourth Edition](https://www.scribd.com/document/235977492/FASA-Star-Trek-RPG-Federation-Classes-The-Fourth-Edition) This document provides additional character classes for the FASA Star Trek Role Playing Game, focusing on the time period from the original Star Trek movies through the early Next Generation era.
 
 
 ### Inactive Sites
@@ -57,10 +59,11 @@ These have one or two articles or are now dormant, Those marked *wayback* the or
 - [Grognardia &mdash; **FASA** posts](https://grognardia.blogspot.com/search/label/fasa) several **FASA** posts on various products including Star Trek {.inactive}
 - [Lithium, Cracking Station &mdash; **FASA** posts](http://lithiumcrackingstation.blogspot.com/search/label/FASA%20Star%20Trek%20RPG) optional rules and character generation tips see also [character generator project &ndash; *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) .{.inactive}
 - [The Character Generator Project &ndash; *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) character generator the main site has a broken wordpress installation. This site is a sub-site of the [Lithium Cracking Station blog](http://lithiumcrackingstation.blogspot.com). {.inactive}
-- [Star Trek: The Roleplaying Page &ndash; *wayback*](http://web.archive.org/web/20010301230019id_/http://www.ziplink.net/~stack/fasatrek/fasa_trek.html)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website. {.inactive}
+- [Star Trek: The Roleplaying Page &ndash; *wayback*](http://web.archive.org/web/20010301230019id_/http://www.ziplink.net/~stack/fasatrek/fasa_trek.html) Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website. {.inactive}
 
 ### Miniatures
 
+- [Star Trek Miniature Maker 2.4](https://wayne-peters.itch.io/star-trek-miniature-maker) **desktop** only as it uses Unity plugin. Very good for paper standees {.active}
 - [Star Trek Miniature Maker 2.0](http://www.crowstuff.co.uk/MiniMaker/index.html) **desktop** only as it uses Unity plugin. Allows you to design paper cut out character minis very much usable for the Role Playing Game. [Explanation post](https://forums.modiphius.com/t/star-trek-paper-miniature-maker-browser-app/299). {.active}
 - [Continuing Mission &mdash; Paper Minature Hacks](https://continuingmissionsta.com/2018/12/18/paper-miniature-hacks/) Blog post about paper minis. {.active}
 - [Star Trek Adventures Miniatures: Original Series Landing Party](https://www.modiphius.net/collections/star-trek-adventures/products/star-trek-adventure-miniatures-original-series-landing-party) high quality resin miniatures ideal for the Role Playing Game, their stock levels vary worth getting these while you still can. {.active}
