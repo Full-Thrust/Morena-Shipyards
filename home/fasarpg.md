@@ -32,11 +32,13 @@ These are links to sites or specific articles related to the Star Trek RPG syste
 - [Adventure Gaming in th Star Trek Universe](http://www.coldnorth.com/owen/game/startrekuniverse.htm) loads of high quality stuff here campaign, plans other systems {.active}
 - [Theta Fleet Engineering](https://engineering.thetafleet.net/manuals.html) large Japanese site has some good content {.active}
 - [Memory Alpha &mdash; Star Trek: The Role Playing Game](https://memory-alpha.fandom.com/wiki/Star_Trek:_The_Role_Playing_Game#Gaming_miniatures) hub page for **FASA** RPG {.active}
+- [Memory Beta - non-canon Star Trek Wiki](https://memory-beta.fandom.com/wiki/Star_Trek:_The_Role_Playing_Game_(FASA) has multiple pages gleaned from RPG sources this example is set in the [Triangle supplement](https://memory-beta.fandom.com/wiki/The_Triangle), explore the site for a lot more {.active}
 - [RPGG &mdash; Star Trek: The Role Playing Game (**FASA**)](https://rpggeek.com/rpg/353/star-trek-role-playing-game-fasa) hub page for **FASA** RPG {.active}
 - [**FASA** Games Store](https://shop.fasagames.com/index.php?main_page=index&manufacturers_id=5) not Star Trek but other lines {.active}
 - [A Doomsday Like Any Other **upgrade**](http://www.coldnorth.com/owen/game/miscellaney/doomsday/doomsday.htm) upgraded adventure module  {.active}
 - [Stardate Magazine](http://www.waynesbooks.com/Stardate.html) listing of issues {.active}
 - [Triangle Map](https://fulltrek.net/) very high quality SVG map of the Triangle {.active}
+
 
 ### Inactive Sites
 
