@@ -10,6 +10,7 @@ tags:
 ![FASA Products](/images/FASA-RPG.webp "Selection of FASA Star Trek the Role Playing Game products" ){.gallery} 
 
 ### FASA Role Playing System
+These are links to sites or specific articles related to the Star Trek RPG system. Explore the links as many of these sites hace more than one related page on the subject:
 
 - [UFC465537 Guardian of Forever: **FASA** Star Trek](https://ufc465537.neocities.org/) Star Trek: The Role Playing Game campaign archive, **FASA** game mechanics material and many Support Files. Includes XON Gaming - **FASA** Star Trek Starship Combat and RPG Support Hosted Pages and Files.{ .active }
 - [Xon Hosted Pages](https://ufc465537.neocities.org/resources-index.html#xonpgs) subsite within *UFC465537* the most comprehensive breakdown of the **FASA** Star Trek RPG system. Includes a listing of all **FASA** STAR TREK the Role Playing Game products, ads and magazine article citings. { .active }
@@ -20,6 +21,9 @@ tags:
 - [Jack Photon's archive org archive](https://archive.org/details/@phantf) Jack Photon's archive org archive of role playing supplements { .active }
 - [Tardis Captain's FASA pages](http://FASA.TardisCaptain.com) ) great collection of **FASA** catalog scans. { .active }
 - [Groknard - A Retrospective of Star Trek RPGs](http://groknard.blogspot.com/) excellent discussion of all known Star Trek roleplaying games. { .active }
+- [Groknardia - Star Trek RPG retrospective](https://grognardia.blogspot.com/2010/01/retrospective-star-trek-roleplaying.html)  { .active }
+- [Groknardia - Why the Triangle is a brilliant campaign setting](https://grognardia.blogspot.com/2024/06/retrospective-triangle.html)  { .active }
+- [Groknardia - Trader captains and merchant princes](https://grognardia.blogspot.com/2024/06/retrospective-trader-captains-and.html)  { .active }
 - [Sitzkrieg - Star Trek posts](http://sitzkrieg.blogspot.com/search/label/Star%20Trek) wargaming blog lots of very useful info including [how to get the STSTCS PC game to work.](http://sitzkrieg.blogspot.com/2018/10/gaming-like-its-1989-installing-fasa.html) { .active }
 - [David Deitrick](https://davidr3deitrick.wordpress.com/category/star-trek/) **FASA** artist extraordinaire. { .active }
 - [Frylock's Geekery - **FASA** Star Trek RPG Resources](https://gsllcblog.com/fasa-star-trek-rpg-resources/) active blog with some great **FASA** RPG tools for free. [Github repo](https://github.com/Frylock1968/FASAStarTrekRPG) { .active }
@@ -51,7 +55,7 @@ These have one or two articles or are now dormant, Those marked *wayback* the or
 - [Grognardia &mdash; **FASA** posts](https://grognardia.blogspot.com/search/label/fasa) several **FASA** posts on various products including Star Trek {.inactive}
 - [Lithium, Cracking Station &mdash; **FASA** posts](http://lithiumcrackingstation.blogspot.com/search/label/FASA%20Star%20Trek%20RPG) optional rules and character generation tips see also [character generator project &ndash; *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) .{.inactive}
 - [The Character Generator Project &ndash; *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) character generator the main site has a broken wordpress installation. This site is a sub-site of the [Lithium Cracking Station blog](http://lithiumcrackingstation.blogspot.com). {.inactive}
-- [Star Trek: The Roleplaying Page &ndash; *wayback*](http://web.archive.org/web/20010301230019id_/http://www.ziplink.net/~stack/fasatrek/fasa_trek.html)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.{.inactive}
+- [Star Trek: The Roleplaying Page &ndash; *wayback*](http://web.archive.org/web/20010301230019id_/http://www.ziplink.net/~stack/fasatrek/fasa_trek.html)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website. {.inactive}
 
 ### Miniatures
 
