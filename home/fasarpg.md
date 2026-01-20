@@ -39,7 +39,7 @@ These are links to sites or specific articles related to the Star Trek RPG syste
 - [Stardate Magazine](http://www.waynesbooks.com/Stardate.html) listing of issues {.active}
 - [Triangle Map](https://fulltrek.net/) very high quality SVG map of the Triangle {.active}
 - [Continuing Missions](https://continuingmissionsta.com/species-index/starship-index) links to tools and materials for FASA to Star Trek Adventurers conversion {.active}
-- [FASA Star Trek RPG Federation Classes - The Fourth Edition](https://www.scribd.com/document/235977492/FASA-Star-Trek-RPG-Federation-Classes-The-Fourth-Edition) This document provides additional character classes for the FASA Star Trek Role Playing Game, focusing on the time period from the original Star Trek movies through the early Next Generation era.
+- [FASA Star Trek RPG Federation Classes - The Fourth Edition](https://www.scribd.com/document/235977492/FASA-Star-Trek-RPG-Federation-Classes-The-Fourth-Edition) This document provides additional character classes for the FASA Star Trek Role Playing Game, focusing on the time period from the original Star Trek movies through the early Next Generation era {.active}
 
 
 ### Inactive Sites
