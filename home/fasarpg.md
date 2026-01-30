@@ -47,7 +47,7 @@ These are links to sites or specific articles related to the Star Trek RPG syste
 These have one or two articles or are now dormant, Those marked *wayback* the original site is offline:
 
 - [Idahobeef](http://idahobeef.yolasite.com/) *Trek I am writing* section has some very well produced **FASA** trek adventures, settings, races and characters.{ .inactive }
-- [Star Trek The Role Playing Game](http://www.karridian.net/startrek.html) logs and background from a campaign run in the 90s, nice read. {.inactive}
+- [Star Trek The Role Playing Game](http://www.karridian.net/startrek.html) logs and background from a campaign run in the 90s, nice read {.inactive}
 - [Review of TNG sourcebooks](https://vakarangi.blogspot.com/search/label/FASA) {.inactive}
 - [Character sheets](http://www.mad-irishman.net/pub_fasatrek.html) {.inactive}
 - [Review of Star Trek first edition](https://wgamingresource.proboards.com/thread/7343/fasa-star-trek-1st-edition) {.inactive}
@@ -55,21 +55,21 @@ These have one or two articles or are now dormant, Those marked *wayback* the or
 - [Review of Star Trek: The RPG](https://writeups.letsyouandhimfight.com/hulk-smash/star-trek-the-rpg/) {.inactive}
 - [**FASA’s** Star Trek: The Role Playing Game: The First Seven-Year Trek](https://jeffreyharlan.com/2019/01/05/fasa-star-trek-rpg/) {.inactive}
 - [**FASA** Star Trek: Maps](https://www.enworld.org/threads/fasa-star-trek-maps.334672/?fbclid=IwAR1-aDa1bhcxJcUR4V86zNZ8vry1W3jDPH1JTy8rIV345_-pQ1jVEwwdnlw)  {.inactive}
-- [American Wargamers Association &mdash; **FASA** posts](https://www.americanwargamersassociation.com/search/label/FASA) short writes up on the STSTCS game and **FASA** products. {.inactive}
+- [American Wargamers Association &mdash; **FASA** posts](https://www.americanwargamersassociation.com/search/label/FASA) short writes up on the STSTCS game and **FASA** products {.inactive}
 - [Grognardia &mdash; **FASA** posts](https://grognardia.blogspot.com/search/label/fasa) several **FASA** posts on various products including Star Trek {.inactive}
-- [Lithium, Cracking Station &mdash; **FASA** posts](http://lithiumcrackingstation.blogspot.com/search/label/FASA%20Star%20Trek%20RPG) optional rules and character generation tips see also [character generator project &ndash; *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) .{.inactive}
-- [The Character Generator Project &ndash; *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) character generator the main site has a broken wordpress installation. This site is a sub-site of the [Lithium Cracking Station blog](http://lithiumcrackingstation.blogspot.com). {.inactive}
-- [Star Trek: The Roleplaying Page &ndash; *wayback*](http://web.archive.org/web/20010301230019id_/http://www.ziplink.net/~stack/fasatrek/fasa_trek.html) Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website. {.inactive}
+- [Lithium, Cracking Station &mdash; **FASA** posts](http://lithiumcrackingstation.blogspot.com/search/label/FASA%20Star%20Trek%20RPG) optional rules and character generation tips see also [character generator project &ndash; *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) {.inactive}
+- [The Character Generator Project &ndash; *wayback*](https://web.archive.org/web/20200708201508/http://www.fasastartrek.com/) character generator the main site has a broken wordpress installation. This site is a sub-site of the [Lithium Cracking Station blog](http://lithiumcrackingstation.blogspot.com) {.inactive}
+- [Star Trek: The Roleplaying Page &ndash; *wayback*](http://web.archive.org/web/20010301230019id_/http://www.ziplink.net/~stack/fasatrek/fasa_trek.html) Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website.)Species Generation, TNG Update and TNG Ship Data. obscure early 2nd Age Website {.inactive}
 
 ### Miniatures
 
 - [Star Trek Miniature Maker 2.4](https://wayne-peters.itch.io/star-trek-miniature-maker) **desktop** only as it uses Unity plugin. Very good for paper standees {.active}
-- [Star Trek Miniature Maker 2.0](http://www.crowstuff.co.uk/MiniMaker/index.html) **desktop** only as it uses Unity plugin. Allows you to design paper cut out character minis very much usable for the Role Playing Game. [Explanation post](https://forums.modiphius.com/t/star-trek-paper-miniature-maker-browser-app/299). {.active}
-- [Continuing Mission &mdash; Paper Minature Hacks](https://continuingmissionsta.com/2018/12/18/paper-miniature-hacks/) Blog post about paper minis. {.active}
-- [Star Trek Adventures Miniatures: Original Series Landing Party](https://www.modiphius.net/collections/star-trek-adventures/products/star-trek-adventure-miniatures-original-series-landing-party) high quality resin miniatures ideal for the Role Playing Game, their stock levels vary worth getting these while you still can. {.active}
-- [Victory Force &mdash; Spacefarers](https://www.victoryforce.com/Merchant2/merchant.mvc?Session_ID=35f3811109996671e78475888269be91&Screen=CTGY&Store_Code=VFM&Category_Code=sfpacks) look alike Star Trek character miniatures. {.active}
-- [CP Models &mdash; Starship Crew](https://cpmodels.co.uk/product-category/28mm-ranges/28mm-sci-fi/star-ship-crew/) 28mm look alike Star Trek character miniatures. {.active}
-- [Heroclix &mdash; Away team](https://wizkids.com/heroclix/star-trek-heroclix-away-team/) still available on ebay the games wasn't a success so buy now. {.active}
+- [Star Trek Miniature Maker 2.0](http://www.crowstuff.co.uk/MiniMaker/index.html) **desktop** only as it uses Unity plugin. Allows you to design paper cut out character minis very much usable for the Role Playing Game. [Explanation post](https://forums.modiphius.com/t/star-trek-paper-miniature-maker-browser-app/299) {.active}
+- [Continuing Mission &mdash; Paper Minature Hacks](https://continuingmissionsta.com/2018/12/18/paper-miniature-hacks/) Blog post about paper minis {.active}
+- [Star Trek Adventures Miniatures: Original Series Landing Party](https://www.modiphius.net/collections/star-trek-adventures/products/star-trek-adventure-miniatures-original-series-landing-party) high quality resin miniatures ideal for the Role Playing Game, their stock levels vary worth getting these while you still can {.active}
+- [Victory Force &mdash; Spacefarers](https://www.victoryforce.com/Merchant2/merchant.mvc?Session_ID=35f3811109996671e78475888269be91&Screen=CTGY&Store_Code=VFM&Category_Code=sfpacks) look alike Star Trek character miniatures {.active}
+- [CP Models &mdash; Starship Crew](https://cpmodels.co.uk/product-category/28mm-ranges/28mm-sci-fi/star-ship-crew/) 28mm look alike Star Trek character miniatures {.active}
+- [Heroclix &mdash; Away team](https://wizkids.com/heroclix/star-trek-heroclix-away-team/) still available on ebay the games wasn't a success so buy now {.active}
 - [Nanoforce Star Trek Army Builder Figures](https://www.previewsworld.com/Article/252465-Make-an-Away-Team-with-Fanwares-New-PREVIEWS-Exclusive-Nanoforce-Star-Trek-Army-Builder-Figures) *USA* only at the moment so hefty import elsewhere, 2" inch" TOS and TNG figures. Great quality about $2 per figure. Limited release buy now. {.active}
 
 ### FASA Game Materials
