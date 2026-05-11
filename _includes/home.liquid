@@ -3,10 +3,13 @@ layout: base.liquid
 templateClass: home
 ---
 
-<!-- Starfield Animation OFF 
+<!-- Starfield Animation ON -->
 <canvas id="StarfieldVideo"></canvas>
-<script src="code/starfield-scroller.js"></script>
--->
+<link rel="stylesheet" href="styles/twok-stars.css">
+<canvas id="twok-stars" aria-hidden="true"></canvas>
+<div class="twok-stars-vignette" aria-hidden="true"></div>
+<script src="code/twok-stars.js"></script>
+
 
 <section>
     {{ content }}

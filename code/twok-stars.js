@@ -1,0 +1,14 @@
+(()=>{'use strict';
+const C={loop:27,stars:10000,fps:30,dpr:1.35,speed:0.3,fov:520,rot:-.05,accel:1.5,size:1.6};
+const canvas=document.getElementById('twok-stars');if(!canvas)return;const ctx=canvas.getContext('2d',{alpha:false});
+let w=0,h=0,dpr=1,last=0,run=true,stars=[];
+const rand=s=>{let t=s+0x6d2b79f5;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return((t^t>>>14)>>>0)/4294967296};
+function init(){stars=Array.from({length:C.stars},(_,i)=>{const a=rand(i*11+1)*Math.PI*2,r=Math.pow(rand(i*17+2),.62)*1.85,x=Math.cos(a)*r,y=Math.sin(a)*r,rn=Math.min(1,Math.hypot(x,y)/1.85),cb=1-rn,t=rand(i*53+6);return{x,y,z:rand(i*23+3),s:.13+rand(i*31+4)*.58,g:rand(i*43+5),rn,cb,de:1.95+cb*1.25,t:t<.7?'255,255,255':t<.88?'190,215,255':'235,210,255'}})}
+function resize(){dpr=Math.min(devicePixelRatio||1,C.dpr);w=innerWidth;h=innerHeight;canvas.width=w*dpr|0;canvas.height=h*dpr|0;ctx.setTransform(dpr,0,0,dpr,0,0)}
+function frame(now){if(!run)return;const ms=1000/C.fps;if(now-last<ms){requestAnimationFrame(frame);return}last=now-(now-last)%ms;
+const sec=now*.001,lt=sec%C.loop/C.loop,ang=sec*C.rot,co=Math.cos(ang),si=Math.sin(ang),cx=w*.5,cy=h*.5,asp=w/h,max=w>h?w:h;
+ctx.fillStyle='#000';ctx.fillRect(0,0,w,h);ctx.globalCompositeOperation='lighter';
+for(let i=0;i<stars.length;i++){const p=stars[i];let prog=(p.z+lt*C.speed)%1;if(prog<0)prog+=1;const depth=Math.pow(prog,p.de),z=1-depth,scale=C.fov/(120+z*(980+p.rn*120)),rx=p.x*co-p.y*si,ry=p.x*si+p.y*co,baseX=rx*scale*h*asp,baseY=ry*scale*h,rush=depth>.72?(depth-.72)/.28:0,burst=Math.pow(p.cb,1.4)*rush*rush*rush*max*C.accel,dl=Math.hypot(rx*asp,ry)||1e-4,x=cx+baseX+(rx*asp/dl)*burst,y=cy+baseY+(ry/dl)*burst;if(x<-90||x>w+90||y<-90||y>h+90)continue;const fade=prog>.035?Math.min(1,(prog-.035)/.12):0;if(!fade)continue;const alpha=Math.min(1,(Math.pow(depth,1.8)*1.15+.08)*fade),r=p.s*(.08+depth*2.95)*(.82+.18*fade)*C.size,stretch=depth>.84?(depth-.84)/.16:0;ctx.fillStyle=`rgba(${p.t},${alpha})`;if(stretch<=0){const q=r>.45?r:.45;ctx.fillRect(x,y,q,q);continue}const dx=x-cx,dy=y-cy,a=Math.atan2(dy,dx),tail=stretch*stretch*(22+burst*.012);if(tail>.02){ctx.strokeStyle=`rgba(${p.t},${alpha*.36*stretch})`;ctx.lineWidth=Math.max(.18,r*.28);ctx.beginPath();ctx.moveTo(x,y);ctx.lineTo(x+Math.cos(a)*tail,y+Math.sin(a)*tail);ctx.stroke()}ctx.beginPath();ctx.ellipse(x,y,r*(1+stretch*1.4),r,a,0,Math.PI*2);ctx.fill();if(p.g>.985){ctx.fillStyle=`rgba(160,185,255,${alpha*.13})`;ctx.beginPath();ctx.arc(x,y,r*4,0,Math.PI*2);ctx.fill()}}
+ctx.globalCompositeOperation='source-over';requestAnimationFrame(frame)}
+document.addEventListener('visibilitychange',()=>{run=!document.hidden;if(run){last=performance.now();requestAnimationFrame(frame)}});addEventListener('resize',resize,{passive:true});init();resize();requestAnimationFrame(frame);
+})();
